@@ -1,0 +1,425 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ChatGPT//Triathlon Swim Plan Apple Compatible//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Triathlon Swim Plan
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:aacf0333-0f44-4faa-869e-8bab2f6a8cbb@triathlon-swim-plan
+DTSTAMP:20260705T173500Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+SUMMARY:Triathlon Swim – Tuesday
+DESCRIPTION:Outdoor pool\n\nDuration: 35–40 min\nYardage: 500–650 yd\nEff
+ ort: RPE 3–4/10\n\nWarm-up\n4 x 50 easy\n\nTechnique\n4 x 25 catch-up dr
+ ill\n4 x 25 fingertip drag\n\nMain set\n4 x 50 relaxed\n2 x 100 easy\n\n
+ Cool-down\n50 easy\n\nCoach's cue\nBlow bubbles continuously underwater.
+  Reach long before each pull.\n\nGoal\nFinish feeling like you could hav
+ e done more.
+LOCATION:Outdoor pool
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:367c2e40-f52e-4a42-bec5-58764b016eae@triathlon-swim-plan
+DTSTAMP:20260705T173500Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:Triathlon Swim – Tuesday
+DESCRIPTION:Outdoor pool\n\nDuration: 35–40 min\nYardage: 500–650 yd\nEff
+ ort: RPE 3–4/10\n\nWarm-up\n4 x 50 easy\n\nTechnique\n4 x 25 catch-up dr
+ ill\n4 x 25 fingertip drag\n\nMain set\n4 x 50 relaxed\n2 x 100 easy\n\n
+ Cool-down\n50 easy\n\nCoach's cue\nBlow bubbles continuously underwater.
+  Reach long before each pull.\n\nGoal\nFinish feeling like you could hav
+ e done more.
+LOCATION:Outdoor pool
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7a1c65e1-ec36-4d8f-811f-4c8853145bfa@triathlon-swim-plan
+DTSTAMP:20260705T173500Z
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+SUMMARY:Triathlon Swim – Tuesday
+DESCRIPTION:Outdoor pool\n\nDuration: 35–40 min\nYardage: 500–650 yd\nEff
+ ort: RPE 3–4/10\n\nWarm-up\n4 x 50 easy\n\nTechnique\n4 x 25 catch-up dr
+ ill\n4 x 25 fingertip drag\n\nMain set\n4 x 50 relaxed\n2 x 100 easy\n\n
+ Cool-down\n50 easy\n\nCoach's cue\nBlow bubbles continuously underwater.
+  Reach long before each pull.\n\nGoal\nFinish feeling like you could hav
+ e done more.
+LOCATION:Outdoor pool
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e7836af7-eda0-4097-bcf4-c79e86c1bbba@triathlon-swim-plan
+DTSTAMP:20260705T173500Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:Triathlon Swim – Tuesday
+DESCRIPTION:Outdoor pool\n\nDuration: 35–40 min\nYardage: 500–650 yd\nEff
+ ort: RPE 3–4/10\n\nWarm-up\n4 x 50 easy\n\nTechnique\n4 x 25 catch-up dr
+ ill\n4 x 25 fingertip drag\n\nMain set\n4 x 50 relaxed\n2 x 100 easy\n\n
+ Cool-down\n50 easy\n\nCoach's cue\nBlow bubbles continuously underwater.
+  Reach long before each pull.\n\nGoal\nFinish feeling like you could hav
+ e done more.
+LOCATION:Outdoor pool
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cb957573-60e8-4314-9bb3-8afa410c9918@triathlon-swim-plan
+DTSTAMP:20260705T173500Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:Triathlon Swim – Tuesday
+DESCRIPTION:Outdoor pool\n\nDuration: 40–45 min\nYardage: 700–900 yd\nEff
+ ort: RPE 4–5/10\n\nWarm-up\n100 easy\n\nTechnique\n4 x 25 catch-up drill
+ \n4 x 25 fingertip drag\n\nMain set\n4 x 100 easy/moderate\, 30 sec rest
+ \n4 x 50 smooth\n\nCool-down\n100 easy\n\nCoach's cue\nRotate from your 
+ hips. Keep your head quiet when breathing.\n\nGoal\nMake 100-yard repeat
+ s feel calm and controlled.
+LOCATION:Outdoor pool
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fb11f192-207d-4dfb-84c7-87834c8fe98c@triathlon-swim-plan
+DTSTAMP:20260705T173500Z
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260812
+SUMMARY:Triathlon Swim – Tuesday
+DESCRIPTION:Outdoor pool\n\nDuration: 40–45 min\nYardage: 700–900 yd\nEff
+ ort: RPE 4–5/10\n\nWarm-up\n100 easy\n\nTechnique\n4 x 25 catch-up drill
+ \n4 x 25 fingertip drag\n\nMain set\n4 x 100 easy/moderate\, 30 sec rest
+ \n4 x 50 smooth\n\nCool-down\n100 easy\n\nCoach's cue\nRotate from your 
+ hips. Keep your head quiet when breathing.\n\nGoal\nMake 100-yard repeat
+ s feel calm and controlled.
+LOCATION:Outdoor pool
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8d989396-96a0-45d6-84d4-94e3524e6f8a@triathlon-swim-plan
+DTSTAMP:20260705T173500Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:Triathlon Swim – Tuesday
+DESCRIPTION:Outdoor pool\n\nDuration: 40–45 min\nYardage: 700–900 yd\nEff
+ ort: RPE 4–5/10\n\nWarm-up\n100 easy\n\nTechnique\n4 x 25 catch-up drill
+ \n4 x 25 fingertip drag\n\nMain set\n4 x 100 easy/moderate\, 30 sec rest
+ \n4 x 50 smooth\n\nCool-down\n100 easy\n\nCoach's cue\nRotate from your 
+ hips. Keep your head quiet when breathing.\n\nGoal\nMake 100-yard repeat
+ s feel calm and controlled.
+LOCATION:Outdoor pool
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d64110ae-6dd8-42e6-ba7c-c5a2c513c658@triathlon-swim-plan
+DTSTAMP:20260705T173500Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:Triathlon Swim – Tuesday
+DESCRIPTION:Outdoor pool\n\nDuration: 40–45 min\nYardage: 700–900 yd\nEff
+ ort: RPE 4–5/10\n\nWarm-up\n100 easy\n\nTechnique\n4 x 25 catch-up drill
+ \n4 x 25 fingertip drag\n\nMain set\n4 x 100 easy/moderate\, 30 sec rest
+ \n4 x 50 smooth\n\nCool-down\n100 easy\n\nCoach's cue\nRotate from your 
+ hips. Keep your head quiet when breathing.\n\nGoal\nMake 100-yard repeat
+ s feel calm and controlled.
+LOCATION:Outdoor pool
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:414c4293-1325-4423-886f-d5a28511aea0@triathlon-swim-plan
+DTSTAMP:20260705T173500Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:Triathlon Swim – Tuesday
+DESCRIPTION:Outdoor pool\n\nDuration: 45 min\nYardage: 900–1100 yd\nEffor
+ t: RPE 5/10\n\nWarm-up\n200 easy\n\nTechnique\n4 x 25 drill\n\nMain set\
+ n6 x 100 steady\, 20–30 sec rest\n4 x 50 with sighting every 3rd length\
+ n\nCool-down\n100 easy\n\nCoach's cue\nLift your eyes only enough to sig
+ ht\, then turn immediately to breathe.\n\nGoal\nStay relaxed while pract
+ icing race skills.
+LOCATION:Outdoor pool
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:19121577-e1e1-4882-8110-5204c10d704b@triathlon-swim-plan
+DTSTAMP:20260705T173500Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Triathlon Swim – Tuesday
+DESCRIPTION:Indoor pool\n\nDuration: 45 min\nYardage: 900–1100 yd\nEffort
+ : RPE 5/10\n\nWarm-up\n200 easy\n\nTechnique\n4 x 25 drill\n\nMain set\n
+ 6 x 100 steady\, 20–30 sec rest\n4 x 50 with sighting every 3rd length\n
+ \nCool-down\n100 easy\n\nCoach's cue\nLift your eyes only enough to sigh
+ t\, then turn immediately to breathe.\n\nGoal\nStay relaxed while practi
+ cing race skills.
+LOCATION:Indoor pool
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6365e201-8803-4d3e-b537-5cb4e6ccf749@triathlon-swim-plan
+DTSTAMP:20260705T173500Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Triathlon Swim – Tuesday
+DESCRIPTION:Indoor pool\n\nDuration: 45 min\nYardage: 900–1100 yd\nEffort
+ : RPE 5/10\n\nWarm-up\n200 easy\n\nTechnique\n4 x 25 drill\n\nMain set\n
+ 6 x 100 steady\, 20–30 sec rest\n4 x 50 with sighting every 3rd length\n
+ \nCool-down\n100 easy\n\nCoach's cue\nLift your eyes only enough to sigh
+ t\, then turn immediately to breathe.\n\nGoal\nStay relaxed while practi
+ cing race skills.
+LOCATION:Indoor pool
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cff18b28-d88f-437b-a7f3-440171f4b9d0@triathlon-swim-plan
+DTSTAMP:20260705T173500Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Triathlon Swim – Tuesday
+DESCRIPTION:Indoor pool\n\nRecovery swim after half marathon.\n\nDuration
+ : 30–40 min\nYardage: 700–900 yd\nEffort: RPE 2–3/10\n\n200 easy\n4 x 25
+  drill\n4 x 100 relaxed\n4 x 50 sighting practice\n100 cooldown\n\nCoach
+ 's cue\nThis is recovery. No hard efforts.\n\nGoal\nLoosen up while keep
+ ing your feel for the water.
+LOCATION:Indoor pool
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8347bb9f-9fd5-41c4-9ef8-8836c6059f68@triathlon-swim-plan
+DTSTAMP:20260705T173500Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Triathlon Swim – Tuesday
+DESCRIPTION:Indoor pool\n\nRace-week easy swim.\n\nDuration: 25–35 min\nY
+ ardage: 500–700 yd\nEffort: RPE 2–3/10\n\n200 easy\n4 x 25 drill\n4 x 50
+  smooth\n100–200 continuous very easy\n50 cooldown\n\nCoach's cue\nLeave
+  the pool fresh.\n\nGoal\nConfidence\, not fitness.
+LOCATION:Indoor pool
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:160264df-2b5b-434a-9510-538395475437@triathlon-swim-plan
+DTSTAMP:20260705T173500Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:Triathlon Swim – Weekend
+DESCRIPTION:Outdoor pool\n\nDuration: 35–40 min\nYardage: 600–750 yd\nEff
+ ort: RPE 4/10\n\nWarm-up\n100 easy\n4 x 50 easy\n\nMain set\n150 continu
+ ous\nRest 45–60 sec\n150 continuous\n2 x 50 easy\n\nCoach's cue\nDo not 
+ rush the first 50. Relax your breathing early.\n\nMilestone\nBuild from 
+ 100 yd continuous toward 150–200 yd continuous.
+LOCATION:Outdoor pool
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e033c8d3-b5a9-4e9b-9d5b-266240958f28@triathlon-swim-plan
+DTSTAMP:20260705T173500Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:Triathlon Swim – Weekend
+DESCRIPTION:Outdoor pool\n\nDuration: 35–40 min\nYardage: 600–750 yd\nEff
+ ort: RPE 4/10\n\nWarm-up\n100 easy\n4 x 50 easy\n\nMain set\n150 continu
+ ous\nRest 45–60 sec\n150 continuous\n2 x 50 easy\n\nCoach's cue\nDo not 
+ rush the first 50. Relax your breathing early.\n\nMilestone\nBuild from 
+ 100 yd continuous toward 150–200 yd continuous.
+LOCATION:Outdoor pool
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c43de138-5bfc-4ab4-968b-67443e6a5390@triathlon-swim-plan
+DTSTAMP:20260705T173500Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:Triathlon Swim – Weekend
+DESCRIPTION:Outdoor pool\n\nDuration: 35–40 min\nYardage: 600–750 yd\nEff
+ ort: RPE 4/10\n\nWarm-up\n100 easy\n4 x 50 easy\n\nMain set\n150 continu
+ ous\nRest 45–60 sec\n150 continuous\n2 x 50 easy\n\nCoach's cue\nDo not 
+ rush the first 50. Relax your breathing early.\n\nMilestone\nBuild from 
+ 100 yd continuous toward 150–200 yd continuous.
+LOCATION:Outdoor pool
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3f5d0f2a-c4b1-4929-b972-dd2f801ad7c6@triathlon-swim-plan
+DTSTAMP:20260705T173500Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:Triathlon Swim – Weekend
+DESCRIPTION:Outdoor pool\n\nDuration: 40–45 min\nYardage: 800–1000 yd\nEf
+ fort: RPE 4–5/10\n\nWarm-up\n200 easy\n\nMain set\n2 x 200 continuous\, 
+ 45 sec rest\n4 x 50 smooth\nOptional 200 continuous if you feel good\n\n
+ Coach's cue\nLong body\, light kick\, steady breathing.\n\nMilestone\nWo
+ rk toward 400 yd nonstop by late August.
+LOCATION:Outdoor pool
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0e25ea12-8530-4925-b9e3-d3a99a4d4b94@triathlon-swim-plan
+DTSTAMP:20260705T173500Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+SUMMARY:Triathlon Swim – Weekend
+DESCRIPTION:Outdoor pool\n\nDuration: 40–45 min\nYardage: 800–1000 yd\nEf
+ fort: RPE 4–5/10\n\nWarm-up\n200 easy\n\nMain set\n2 x 200 continuous\, 
+ 45 sec rest\n4 x 50 smooth\nOptional 200 continuous if you feel good\n\n
+ Coach's cue\nLong body\, light kick\, steady breathing.\n\nMilestone\nWo
+ rk toward 400 yd nonstop by late August.
+LOCATION:Outdoor pool
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:88ee424f-08d8-4071-a1e4-6a7f44190121@triathlon-swim-plan
+DTSTAMP:20260705T173500Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:Triathlon Swim – Weekend
+DESCRIPTION:Outdoor pool\n\nDuration: 40–45 min\nYardage: 800–1000 yd\nEf
+ fort: RPE 4–5/10\n\nWarm-up\n200 easy\n\nMain set\n2 x 200 continuous\, 
+ 45 sec rest\n4 x 50 smooth\nOptional 200 continuous if you feel good\n\n
+ Coach's cue\nLong body\, light kick\, steady breathing.\n\nMilestone\nWo
+ rk toward 400 yd nonstop by late August.
+LOCATION:Outdoor pool
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f9d7b563-9882-4d30-87eb-b761b702fbc1@triathlon-swim-plan
+DTSTAMP:20260705T173500Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:Triathlon Swim – Weekend
+DESCRIPTION:Outdoor pool\n\nDuration: 40–45 min\nYardage: 800–1000 yd\nEf
+ fort: RPE 4–5/10\n\nWarm-up\n200 easy\n\nMain set\n2 x 200 continuous\, 
+ 45 sec rest\n4 x 50 smooth\nOptional 200 continuous if you feel good\n\n
+ Coach's cue\nLong body\, light kick\, steady breathing.\n\nMilestone\nWo
+ rk toward 400 yd nonstop by late August.
+LOCATION:Outdoor pool
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1ad58ea5-994f-4403-a2f4-c6ad66a8eb2f@triathlon-swim-plan
+DTSTAMP:20260705T173500Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:Triathlon Swim – Weekend
+DESCRIPTION:Outdoor pool\n\nDuration: 40–45 min\nYardage: 800–1000 yd\nEf
+ fort: RPE 4–5/10\n\nWarm-up\n200 easy\n\nMain set\n2 x 200 continuous\, 
+ 45 sec rest\n4 x 50 smooth\nOptional 200 continuous if you feel good\n\n
+ Coach's cue\nLong body\, light kick\, steady breathing.\n\nMilestone\nWo
+ rk toward 400 yd nonstop by late August.
+LOCATION:Outdoor pool
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:82841d80-583d-44f7-ba13-8f84b2e23d35@triathlon-swim-plan
+DTSTAMP:20260705T173500Z
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:Triathlon Swim – Weekend
+DESCRIPTION:Outdoor pool\n\nDuration: 40–45 min\nYardage: 900–1100 yd\nEf
+ fort: RPE 5/10\n\nWarm-up\n200 easy\n\nMain set\n400 continuous relaxed\
+ nRest 60 sec\n4 x 100 steady\n\nCool-down\n100 easy\n\nCoach's cue\nKeep
+  the first 100 almost too easy.\n\nGoal\nRace distance should feel achie
+ vable.
+LOCATION:Outdoor pool
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4810d799-7a2a-4330-9481-19f94ed89fec@triathlon-swim-plan
+DTSTAMP:20260705T173500Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Triathlon Swim – Weekend
+DESCRIPTION:Indoor pool\n\nDuration: 40–45 min\nYardage: 900–1100 yd\nEff
+ ort: RPE 5/10\n\nWarm-up\n200 easy\n\nMain set\n400 continuous relaxed\n
+ Rest 60 sec\n4 x 100 steady\n\nCool-down\n100 easy\n\nCoach's cue\nKeep 
+ the first 100 almost too easy.\n\nGoal\nRace distance should feel achiev
+ able.
+LOCATION:Indoor pool
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9bcea43f-3b43-4a41-b528-a284e7b944cf@triathlon-swim-plan
+DTSTAMP:20260705T173500Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Triathlon Swim – Weekend
+DESCRIPTION:Indoor pool\n\nDuration: 35–45 min\nYardage: 800–1000 yd\nEff
+ ort: RPE 3–4/10\n\nWarm-up\n200 easy\n\nMain set\n600–800 continuous rel
+ axed\nPractice sighting every 4–6 lengths\n\nCool-down\nEasy to finish\n
+ \nCoach's cue\nSmooth and calm. No proving fitness.\n\nGoal\nKnow you ca
+ n cover the race distance comfortably.
+LOCATION:Indoor pool
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f8f1d91b-975a-4458-8017-af59967fc125@triathlon-swim-plan
+DTSTAMP:20260705T173500Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Triathlon Swim – Weekend
+DESCRIPTION:Indoor pool\n\nDuration: 35–45 min\nYardage: 800–1000 yd\nEff
+ ort: RPE 3–4/10\n\nWarm-up\n200 easy\n\nMain set\n600–800 continuous rel
+ axed\nPractice sighting every 4–6 lengths\n\nCool-down\nEasy to finish\n
+ \nCoach's cue\nSmooth and calm. No proving fitness.\n\nGoal\nKnow you ca
+ n cover the race distance comfortably.
+LOCATION:Indoor pool
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:838b39a8-4b06-4b83-b26a-0d41df4597bc@triathlon-swim-plan
+DTSTAMP:20260705T173500Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Sprint Triathlon – Race Day Swim
+DESCRIPTION:Race day: sprint triathlon swim.\n\nDistance: 750 m / about 8
+ 20 yd\n\nRace cues\nStart 10–15 seconds slower than you think.\nLong str
+ okes.\nSteady bubbles underwater.\nLight flutter kick.\nSettle into rhyt
+ hm before thinking about pace.\nExit the water relaxed for the bike.
+LOCATION:Race venue
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
