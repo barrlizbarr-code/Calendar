@@ -24,655 +24,1045 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:e8eda0c9-176e-40d3-8d6b-557cb1f2c38c@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260706-a113f436623c5801b5a7dd8907578838@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260706T180000
 DTEND;TZID=America/New_York:20260706T184500
-SUMMARY:Run - Easy 3 miles
-DESCRIPTION:Easy after-work run. Keep it conversational\; finish with lig
- ht mobility.
+SUMMARY:Run - Easy 4 miles
+DESCRIPTION:After-work easy run. Conversational effort\; keep form relaxe
+ d.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:a0b49f15-398f-4bc3-aac3-4af75bb9620f@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260707-70d26e3ee6d959769dcceab40f950b71@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260707T180000
 DTEND;TZID=America/New_York:20260707T184500
 SUMMARY:Swim - Technique 900 yd
-DESCRIPTION:Technique swim: easy warmup\, drills\, short relaxed repeats.
-  Goal is comfort and form.
+DESCRIPTION:Technique swim: easy warmup\, drills\, relaxed repeats. Keep 
+ it smooth.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bd1a9f43-2f59-40a0-964b-3cb162346c51@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260708-fd4f1f184fd35c908b67eaad865bae38@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260708T120000
-DTEND;TZID=America/New_York:20260708T124500
+DTEND;TZID=America/New_York:20260708T125000
 SUMMARY:Strength/CrossFit - Foundation
-DESCRIPTION:Noon strength or CrossFit. Keep legs moderate\; focus glutes\
- , hamstrings\, core\, posture\, shoulders.
+DESCRIPTION:Noon strength or CrossFit. Keep legs moderate\; focus hips\, 
+ glutes\, core\, posture.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:1b492681-8ae6-4fe9-8b9b-b589249dd48f@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260709-b2f5a15814685e479a502b93d544035a@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260709T180000
-DTEND;TZID=America/New_York:20260709T184500
-SUMMARY:Run - Easy 3 mi + strides
-DESCRIPTION:Easy run after work with 4 relaxed strides. Do not race the s
- trides.
+DTEND;TZID=America/New_York:20260709T190000
+SUMMARY:Run - Easy 5 miles + strides
+DESCRIPTION:After-work easy run with 4 relaxed strides at the end. Do not
+  race the strides.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:39ca5a57-cda0-4a5f-90a0-7ba775e413bd@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260711-c5e382364f2958feb5b9a0c9585e1d44@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260711T080000
-DTEND;TZID=America/New_York:20260711T091500
+DTEND;TZID=America/New_York:20260711T090000
 SUMMARY:Race - Annapolis Women’s Distance Festival 5K
-DESCRIPTION:Race replaces long run. Warm up 10-15 min easy\; run controll
- ed\; cool down easy.
+DESCRIPTION:Race replaces Saturday long run. Warm up 10-15 minutes\; run 
+ controlled\; cool down easy if you feel good.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:86ee59e2-9511-4e56-ae87-87ed0bf2af60@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260712-4daf86e5ef6e5a9d83730ec298c0f49d@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260712T160000
-DTEND;TZID=America/New_York:20260712T170000
-SUMMARY:Brick - Bike 45 min + Run 10 min
-DESCRIPTION:Sunday PM brick. Easy bike\, then short easy run to practice 
- the transition.
+DTEND;TZID=America/New_York:20260712T171500
+SUMMARY:Brick - Bike 45 min + Run 2 miles
+DESCRIPTION:Sunday PM brick. Easy bike\, then 2-mile easy transition run.
+  Practice switching shoes and starting calmly.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:fabdc93e-1ab8-4683-a5e3-70227cc8098f@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260713-cf9015f572535f5f892eeb432e99af45@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260713T180000
-DTEND;TZID=America/New_York:20260713T184000
-SUMMARY:Run - Recovery 3 miles
-DESCRIPTION:Easy recovery run after the 5K weekend.
+DTEND;TZID=America/New_York:20260713T184500
+SUMMARY:Run - Recovery 4 miles
+DESCRIPTION:Easy recovery run after race weekend. Keep it light.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:741ad61e-427b-4ec3-96a4-231565476181@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260714-0fa970f173de5d4e84dbbc22d278c4f1@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260714T180000
 DTEND;TZID=America/New_York:20260714T185000
 SUMMARY:Swim - Endurance 1000 yd
-DESCRIPTION:Steady technique-focused swim. Include relaxed 50s/100s with 
- full control.
+DESCRIPTION:Steady technique-focused swim with relaxed 50s/100s.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:0a81d6f0-4436-47a3-bb53-270233cd493e@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260715-823e6c149638529e87ebca3e22952690@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260715T120000
-DTEND;TZID=America/New_York:20260715T124500
+DTEND;TZID=America/New_York:20260715T125000
 SUMMARY:Strength/CrossFit - Moderate
-DESCRIPTION:Noon strength or CrossFit. Avoid max-effort lower body work t
- his week.
+DESCRIPTION:Noon strength or CrossFit. Avoid max-effort lower body work.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:831ea83d-2132-462a-9ab6-6ae1a490a763@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260716-eda650f6cd9f5007857fa5a568324cb4@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260716T180000
-DTEND;TZID=America/New_York:20260716T185000
-SUMMARY:Run - Tempo intro 3.5 miles
-DESCRIPTION:After-work run: easy warmup\, 10-12 min comfortably hard\, ea
- sy cooldown.
+DTEND;TZID=America/New_York:20260716T190500
+SUMMARY:Run - Tempo intro 5 miles
+DESCRIPTION:After-work run: easy warmup\, 12-15 min comfortably hard\, ea
+ sy cool down.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:de2f3560-fcbd-4b01-a44a-11624aa9e148@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260718-edf56d87ce0d5fd5a32e8b59179b1631@triathlon-plan
+DTSTAMP:20260705T192604Z
+DTSTART;TZID=America/New_York:20260718T080000
+DTEND;TZID=America/New_York:20260718T083500
+SUMMARY:Run - Easy 3 miles
+DESCRIPTION:Short easy Saturday run to keep weekly mileage up without dra
+ ining Sunday race legs.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260719-2fc50c92317453bcb8fbff65c3abd9e1@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260719T080000
-DTEND;TZID=America/New_York:20260719T091500
+DTEND;TZID=America/New_York:20260719T090000
 SUMMARY:Race - Women’s Distance Festival 5K\, Lutherville
-DESCRIPTION:Race replaces Sunday brick. Warm up\, run controlled\, cool d
- own. Treat as speed practice.
+DESCRIPTION:Race effort by feel. Warm up\, run controlled\, cool down if 
+ desired.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:4ba60285-9c90-4166-a118-666f724529e1@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260720-5bb2ec052ad95b52956f0bc4a6f017e2@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260720T180000
-DTEND;TZID=America/New_York:20260720T184000
-SUMMARY:Run - Recovery 3 miles
-DESCRIPTION:Easy after-work run. Keep effort very light after Sunday race
- .
+DTEND;TZID=America/New_York:20260720T184500
+SUMMARY:Run - Recovery 4 miles
+DESCRIPTION:Easy run after WDF weekend.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:eed8f7ae-00c9-43fc-890d-c3414e002ebe@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260721-8b1183c3f3295252b2a36c44d0e5da83@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260721T180000
 DTEND;TZID=America/New_York:20260721T185500
 SUMMARY:Swim - Endurance 1100 yd
-DESCRIPTION:Steady swim with form focus. Add a few relaxed longer repeats
-  if comfortable.
+DESCRIPTION:Steady swim with form focus and relaxed longer repeats.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:7b0ded9c-1034-4060-bd1a-efd7e21f465c@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260722-9c9503d524935690ae0420a1d2a89ca8@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260722T120000
-DTEND;TZID=America/New_York:20260722T124500
+DTEND;TZID=America/New_York:20260722T125000
 SUMMARY:Strength/CrossFit - Moderate
 DESCRIPTION:Noon strength or CrossFit. Keep it steady\, not a test day.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:dd3e8f93-b311-4064-bcec-c390e789b0ff@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260723-7c1091ce20b554e6bc36ea6fabda9937@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260723T180000
-DTEND;TZID=America/New_York:20260723T185000
-SUMMARY:Run - Hills 4 miles
-DESCRIPTION:After-work hill run: easy pace\, short controlled hills\, eas
- y cooldown.
+DTEND;TZID=America/New_York:20260723T190500
+SUMMARY:Run - Hills 5 miles
+DESCRIPTION:After-work hill run: easy warmup\, short controlled hills\, e
+ asy cool down.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:7b06d412-baaa-4af9-9da5-a7685cb7cfeb@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260725-be160ea2f70a55ea9c30e2e74abbfaa3@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260725T080000
-DTEND;TZID=America/New_York:20260725T091500
+DTEND;TZID=America/New_York:20260725T090000
 SUMMARY:Race - Trail 5K
-DESCRIPTION:Race replaces long run. Keep footing safe\; effort by feel\, 
- not pace.
+DESCRIPTION:Trail race replaces long run. Keep footing safe\; effort by f
+ eel.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:d1459e62-8f5b-4425-8a44-e2ad66b26b16@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260726-db7893c1e2be5de3af5fb4ab37e3e11a@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260726T160000
-DTEND;TZID=America/New_York:20260726T170500
-SUMMARY:Brick - Bike 50 min + Run 10 min
-DESCRIPTION:Sunday PM brick. Easy aerobic bike\, short easy transition ru
- n.
+DTEND;TZID=America/New_York:20260726T172000
+SUMMARY:Brick - Bike 50 min + Run 2 miles
+DESCRIPTION:Sunday PM brick. Easy aerobic bike\, then 2-mile easy transit
+ ion run.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:281b90a5-a5b6-4d4b-a107-ed2f00ecfcc1@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260727-5f89ab10b79a5ba6957d4d5c240645c1@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260727T180000
-DTEND;TZID=America/New_York:20260727T184000
-SUMMARY:Run - Easy 3 miles
+DTEND;TZID=America/New_York:20260727T184500
+SUMMARY:Run - Easy 4 miles
 DESCRIPTION:Easy after-work run. Keep it comfortable.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:02d91982-660c-479c-9d0b-b54bb0a47b57@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260728-86a7443208fc51008a2ad3cfda540ca6@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260728T180000
-DTEND;TZID=America/New_York:20260728T185500
+DTEND;TZID=America/New_York:20260728T190000
 SUMMARY:Swim - Endurance 1200 yd
-DESCRIPTION:Steady swim. Practice bilateral breathing if useful\; keep fo
- rm smooth.
+DESCRIPTION:Steady swim. Practice calm breathing and good form.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:d686ed14-5857-4121-914d-6b977735c65e@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260729-1a77cc769c195635b3313a2bff154f5f@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260729T120000
 DTEND;TZID=America/New_York:20260729T124500
-SUMMARY:Strength/CrossFit - Moderate
-DESCRIPTION:Noon strength or CrossFit. Avoid heavy soreness before race w
- eekend.
+SUMMARY:Strength/CrossFit - Light
+DESCRIPTION:Noon strength or CrossFit. Keep it lighter before back-to-bac
+ k race weekend.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:a68a18b5-7977-494c-9e62-7eaa5d4979a2@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260730-8c0792f3db015fb587bd18776fba3390@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260730T180000
-DTEND;TZID=America/New_York:20260730T185000
-SUMMARY:Run - Tempo 4 miles
-DESCRIPTION:After-work run with 15 min comfortably hard in the middle.
+DTEND;TZID=America/New_York:20260730T190500
+SUMMARY:Run - Tempo 5 miles
+DESCRIPTION:After-work run with 15-18 min comfortably hard in the middle.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:blue-crab-bolt-little-bennett-20260801@openai-triathlon-plan
-DTSTAMP:20260705T182558Z
+UID:20260801-84e8316fb20b5341a36f753ec9c715ed@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260801T080000
 DTEND;TZID=America/New_York:20260801T110000
-SUMMARY:Race - Blue Crab Bolt Trail Run: Little Bennett
+SUMMARY:Race - Blue Crab Bolt Trail Run 10K: Little Bennett
+DESCRIPTION:Blue Crab Bolt Trail Run - Little Bennett. Treat as the plan 
+ long run/race\; effort by feel on trails. https://runsignup.com/Race/MD/
+ Clarksburg/BlueCrabBoltTrailRunLittleBennett
 LOCATION:Little Bennett Regional Park\, Clarksburg\, MD 20871
-URL:https://runsignup.com/Race/MD/Clarksburg/BlueCrabBoltTrailRunLittleBe
- nnett
-DESCRIPTION:Trail race at Little Bennett Regional Park. Treat as the plan
- ned Aug. 1 race effort\; warm up easy and run controlled on trails. Race
-  link: https://runsignup.com/Race/MD/Clarksburg/BlueCrabBoltTrailRunLitt
- leBennett
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:d59c4d99-4701-4788-a68a-6fca41c862e7@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260802-d5b0841909015d4587a912aacef22c4a@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260802T080000
-DTEND;TZID=America/New_York:20260802T091500
+DTEND;TZID=America/New_York:20260802T090000
 SUMMARY:Race - Dog Days 8K
 DESCRIPTION:Race replaces brick. Run steady and do not force pace in heat
  .
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:c46ba7ba-bf49-447c-958c-214e8db7d3cc@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260803-6fe799b2f89652ec82ac93f760073c35@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260803T180000
-DTEND;TZID=America/New_York:20260803T184000
-SUMMARY:Run - Recovery 3 miles
+DTEND;TZID=America/New_York:20260803T184500
+SUMMARY:Run - Recovery 4 miles
 DESCRIPTION:Easy recovery run after back-to-back race weekend.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:90c700e7-a006-4142-a4a1-4b8d4c871c75@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260804-703b3b2ce576529593a5788daa00236c@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260804T180000
 DTEND;TZID=America/New_York:20260804T190000
 SUMMARY:Swim - Endurance 1300 yd
 DESCRIPTION:Steady swim. Include relaxed 100s\; stop before form breaks d
  own.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:542f0a49-31fe-4bf1-a176-add8b8c83548@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260805-986553942a9c5659ba9f545dc9cf9eb2@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260805T120000
-DTEND;TZID=America/New_York:20260805T124500
+DTEND;TZID=America/New_York:20260805T125000
 SUMMARY:Strength/CrossFit - Foundation
 DESCRIPTION:Noon strength or CrossFit. Prioritize core\, hips\, shoulders
- \, and posterior chain.
+ \, posterior chain.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:d8dc27d5-2511-4e37-bd06-fad4d2449987@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260806-aa916dc79c6d54f99cc2dd639e50c015@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260806T180000
-DTEND;TZID=America/New_York:20260806T185000
-SUMMARY:Run - Easy 4 mi + strides
+DTEND;TZID=America/New_York:20260806T190500
+SUMMARY:Run - Easy 5 miles + strides
 DESCRIPTION:Easy after-work run with 4 relaxed strides.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:ad4ce946-e33b-46da-b7c8-c12e30b4c30a@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260808-be1a891453295711a4008988c6aacaa8@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260808T080000
 DTEND;TZID=America/New_York:20260808T093000
-SUMMARY:Long Run - 7 miles
+SUMMARY:Long Run - 8 miles
 DESCRIPTION:Saturday AM long run. Easy effort\; hydrate early if hot.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:a42fadd6-746c-4030-9156-1d99cca329dd@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260809-bd8812b473565830a9d1b9558caa4668@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260809T160000
-DTEND;TZID=America/New_York:20260809T171500
-SUMMARY:Brick - Bike 55 min + Run 15 min
-DESCRIPTION:Sunday PM brick. Easy bike\, then relaxed transition run.
+DTEND;TZID=America/New_York:20260809T173000
+SUMMARY:Brick - Bike 55 min + Run 3 miles
+DESCRIPTION:Sunday PM brick. Easy bike\, then relaxed 3-mile transition r
+ un.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:8da92205-3e56-4627-aaa8-c7ca9e5f2d2d@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260810-5d8e07a689c25dfebfb7f69164757c9b@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260810T180000
-DTEND;TZID=America/New_York:20260810T184500
-SUMMARY:Run - Easy 4 miles
+DTEND;TZID=America/New_York:20260810T185500
+SUMMARY:Run - Easy 5 miles
 DESCRIPTION:Easy after-work run. Keep it conversational.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:a9b15cc6-7577-48ed-ba92-ee9b2bcad7e9@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260811-9353fc04eca4540f9036ec7ced67566a@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260811T180000
-DTEND;TZID=America/New_York:20260811T190000
+DTEND;TZID=America/New_York:20260811T190500
 SUMMARY:Swim - Endurance 1400 yd
 DESCRIPTION:Steady swim. Build confidence over distance\, not speed.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:264cb669-3b00-43e4-933d-6f92a61056ba@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260812-964224ad228d59bb95739cd00ecda18f@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260812T120000
-DTEND;TZID=America/New_York:20260812T124500
+DTEND;TZID=America/New_York:20260812T125000
 SUMMARY:Strength/CrossFit - Moderate
-DESCRIPTION:Noon strength or CrossFit. Keep legs usable for Thursday/Satu
- rday.
+DESCRIPTION:Noon strength or CrossFit. Keep legs usable for Thursday and 
+ Saturday.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:cfd6d37b-8ae9-4e55-9b0e-3d747409c616@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260813-041a5954a9c25d8a9ee8b5ff666b8738@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260813T180000
-DTEND;TZID=America/New_York:20260813T185500
-SUMMARY:Run - Tempo 4.5 miles
-DESCRIPTION:After-work run: easy warmup\, 18 min comfortably hard\, easy 
- cooldown.
+DTEND;TZID=America/New_York:20260813T191500
+SUMMARY:Run - Tempo 6 miles
+DESCRIPTION:After-work run: easy warmup\, 18-20 min comfortably hard\, ea
+ sy cool down.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:b610bcf9-cae9-4c6b-9fa8-4cabb63f9827@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260815-ad217f18d27e53d29bf4903f74070694@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260815T080000
 DTEND;TZID=America/New_York:20260815T094000
-SUMMARY:Long Run - 8 miles
+SUMMARY:Long Run - 9 miles
 DESCRIPTION:Saturday AM long run. Easy effort\; practice fueling/hydratio
  n.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:49410924-be9f-446c-84cd-20c3034ad89f@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260816-d4cd0dbaf78b58fbac0c9a6aa2a2a4da@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260816T160000
-DTEND;TZID=America/New_York:20260816T172000
-SUMMARY:Brick - Bike 60 min + Run 15 min
+DTEND;TZID=America/New_York:20260816T173500
+SUMMARY:Brick - Bike 60 min + Run 3 miles
 DESCRIPTION:Sunday PM brick. Keep both pieces aerobic and controlled.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:77adcba8-fcd3-4a43-bbf8-784389d24835@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260817-774e637775ec5b2987fde6255e6ad48d@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260817T180000
-DTEND;TZID=America/New_York:20260817T184500
-SUMMARY:Run - Easy 4 miles
+DTEND;TZID=America/New_York:20260817T185500
+SUMMARY:Run - Easy 5 miles
 DESCRIPTION:Easy after-work run.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:d6cc10a8-79ef-4543-a3c8-532e223b0b37@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260818-a175a6d21d335979a8b9f2e25946820f@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260818T180000
-DTEND;TZID=America/New_York:20260818T190500
+DTEND;TZID=America/New_York:20260818T191000
 SUMMARY:Swim - Endurance 1500 yd
-DESCRIPTION:Steady swim. This exceeds sprint-tri distance\; stay relaxed 
- and smooth.
+DESCRIPTION:Steady swim. This exceeds sprint-tri distance\; stay relaxed.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:957c1fcd-5a06-4d69-b861-2344aedf1a22@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260819-c312f49551bd5deeb7568903cb8b4825@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260819T120000
-DTEND;TZID=America/New_York:20260819T124500
+DTEND;TZID=America/New_York:20260819T125000
 SUMMARY:Strength/CrossFit - Moderate
 DESCRIPTION:Noon strength or CrossFit. Avoid excessive lower-body fatigue
  .
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:dd533e02-c508-4e5c-9be0-742b44b0d171@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260820-d29e057ce12a582682e2514257a21a6f@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260820T180000
-DTEND;TZID=America/New_York:20260820T190000
-SUMMARY:Run - Intervals 5 miles
+DTEND;TZID=America/New_York:20260820T191500
+SUMMARY:Run - Intervals 6 miles
 DESCRIPTION:After-work run: easy warmup\, 5 x 3 min strong with easy reco
- very\, cooldown.
+ veries\, cool down.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:8488938f-81c9-4ded-abfa-0194c167bed9@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260822-5fd332c7e1c257da98d7d414c87cb294@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260822T080000
 DTEND;TZID=America/New_York:20260822T095000
-SUMMARY:Long Run - 9 miles
+SUMMARY:Long Run - 10 miles
 DESCRIPTION:Saturday AM long run. Easy pace\; fuel and hydrate.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:57b641ff-1da5-4727-a591-cd33691208a6@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260823-e8ed7fb6f3e05fe98ae8445e92c59136@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260823T160000
-DTEND;TZID=America/New_York:20260823T172500
-SUMMARY:Brick - Bike 65 min + Run 15 min
+DTEND;TZID=America/New_York:20260823T174000
+SUMMARY:Brick - Bike 65 min + Run 3 miles
 DESCRIPTION:Sunday PM brick. Practice transition and staying smooth off t
  he bike.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2a8df974-0c03-4d62-b535-5b23cc9fda20@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260824-d8f608c59c7e50399360d68e5e2502f2@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260824T180000
 DTEND;TZID=America/New_York:20260824T184500
 SUMMARY:Run - Easy 4 miles
-DESCRIPTION:Easy after-work run.
+DESCRIPTION:Easy after-work run. Slight cutback before Annapolis 10 Mile.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:11d7e6a0-801f-4e01-9ee3-f46e59fa46be@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260825-a4f6003a42f6591fb5f8a6c9f4bf3498@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260825T180000
-DTEND;TZID=America/New_York:20260825T190500
+DTEND;TZID=America/New_York:20260825T191000
 SUMMARY:Swim - Endurance 1500 yd
 DESCRIPTION:Steady swim. Focus on calm breathing and continuous movement.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:95bc1a53-2eb1-4ee3-af31-d6067e237112@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260826-1c97ef46a5d850b9b85aa0787d367b77@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260826T120000
-DTEND;TZID=America/New_York:20260826T124000
+DTEND;TZID=America/New_York:20260826T124500
 SUMMARY:Strength/CrossFit - Light
-DESCRIPTION:Noon strength or CrossFit. Keep it lighter before the 10-mile
-  race.
+DESCRIPTION:Noon strength or CrossFit. Keep it light before race weekend.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:9a7606c2-f901-41fd-b3f6-50258305ae5d@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260827-2488d90474c453268fddf04d0fd3f8c0@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260827T180000
-DTEND;TZID=America/New_York:20260827T184000
-SUMMARY:Run - Easy 3 mi + strides
+DTEND;TZID=America/New_York:20260827T190500
+SUMMARY:Run - Easy 5 miles + strides
 DESCRIPTION:Easy after-work run with 4 relaxed strides.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:372a0d37-a7e7-4397-b5cb-722664727a90@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260830-2a99f609adf25710bb03c74d006af605@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260830T070000
-DTEND;TZID=America/New_York:20260830T100000
+DTEND;TZID=America/New_York:20260830T093000
 SUMMARY:Race - Annapolis 10 Mile Run
 DESCRIPTION:Race at Navy-Marine Corps Memorial Stadium. Run steady\; use 
- as half-marathon practice.
+ as a strong supported long run.
+LOCATION:Navy–Marine Corps Memorial Stadium\, Annapolis\, MD
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:b884eed1-ebd1-4acd-b6ee-2921e9f56bf9@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260831-8d2580b7ebb45c8da043662cefad4ab9@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260831T180000
-DTEND;TZID=America/New_York:20260831T184000
-SUMMARY:Run - Recovery 3 miles
+DTEND;TZID=America/New_York:20260831T184500
+SUMMARY:Run - Recovery 4 miles
 DESCRIPTION:Easy recovery run after Annapolis 10 Mile.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:c8e0712b-62d3-41c4-be58-5ade678ef5c4@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260901-1eaba948114550a69fbb7c2577ef85b6@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260901T180000
-DTEND;TZID=America/New_York:20260901T190500
+DTEND;TZID=America/New_York:20260901T191500
 SUMMARY:Swim - Endurance 1600 yd
 DESCRIPTION:Steady swim. Keep effort controlled\; this is confidence-buil
  ding.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:d9b584e3-2e74-4fa2-89a5-dbe35b382c35@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260902-ec97455f2b245d3f81ef7a44e568354d@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260902T120000
-DTEND;TZID=America/New_York:20260902T124500
+DTEND;TZID=America/New_York:20260902T125000
 SUMMARY:Strength/CrossFit - Moderate
 DESCRIPTION:Noon strength or CrossFit. Focus on strength maintenance.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:cf46692e-679f-4b24-befe-e176ec05b277@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260903-0124f348ed015575a207ef915d1d1a61@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260903T180000
-DTEND;TZID=America/New_York:20260903T190000
-SUMMARY:Run - Tempo 5 miles
+DTEND;TZID=America/New_York:20260903T191500
+SUMMARY:Run - Tempo 6 miles
 DESCRIPTION:After-work run with 20 min comfortably hard in the middle.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:01703692-67cc-403a-b265-92dd8af2673c@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260905-d6127ffac27f5e4ab3d6a32ffb707837@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260905T080000
 DTEND;TZID=America/New_York:20260905T100000
-SUMMARY:Long Run - 10 miles
+SUMMARY:Long Run - 11 miles
 DESCRIPTION:Saturday AM long run. Easy pace\; practice race-day fueling.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:b9d8961a-a957-47c6-b8c7-78105f78b51b@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260906-e427146f5d9350508efeb44a9aeb021f@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260906T160000
-DTEND;TZID=America/New_York:20260906T173000
-SUMMARY:Brick - Bike 70 min + Run 20 min
+DTEND;TZID=America/New_York:20260906T174500
+SUMMARY:Brick - Bike 70 min + Run 3 miles
 DESCRIPTION:Sunday PM brick. Easy bike\, steady transition run.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:6a19fd40-761a-429e-9241-6548a7bdf4d0@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260907-089a3af2e31158b2b1e5eff9f15333a1@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260907T180000
-DTEND;TZID=America/New_York:20260907T184500
-SUMMARY:Run - Easy 4 miles
+DTEND;TZID=America/New_York:20260907T185500
+SUMMARY:Run - Easy 5 miles
 DESCRIPTION:Easy after-work run.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:3244edce-5882-4188-9a37-1b96da839d9a@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260908-151b15ac4b3c57c2959cc909f5162928@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260908T180000
-DTEND;TZID=America/New_York:20260908T191000
+DTEND;TZID=America/New_York:20260908T192000
 SUMMARY:Swim - Endurance 1700 yd
 DESCRIPTION:Steady swim. Longest pool session\; keep it smooth and relaxe
  d.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:3c522c3c-643c-4f27-b737-8386a26bd71b@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260909-67fc948e52905026902666a19f4e2b4d@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260909T120000
 DTEND;TZID=America/New_York:20260909T124500
 SUMMARY:Strength/CrossFit - Moderate
 DESCRIPTION:Noon strength or CrossFit. No max lifts\; stay fresh for long
   run.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:3ef5f6dc-d1da-476b-bff1-7c79658438c0@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260910-2c272393115c51798b42a7b839b44aa4@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260910T180000
-DTEND;TZID=America/New_York:20260910T190000
-SUMMARY:Run - Intervals 5 miles
+DTEND;TZID=America/New_York:20260910T191500
+SUMMARY:Run - Intervals 6 miles
 DESCRIPTION:After-work run: easy warmup\, 6 x 2 min strong with easy reco
- very\, cooldown.
+ veries\, cool down.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:b17ab0e4-1dd4-4082-b314-0e6440dff184@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260912-6a7273f66aab5f74b08c0c2a6d13a0ed@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260912T080000
 DTEND;TZID=America/New_York:20260912T101000
-SUMMARY:Long Run - 11 miles
+SUMMARY:Long Run - 12 miles
 DESCRIPTION:Saturday AM peak long run. Easy pace\; practice fueling and h
  ydration.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:53a3db53-b174-4395-a9c4-7edfd0aad4bb@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260913-c57a5eeed2625696bd08860459014461@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260913T160000
-DTEND;TZID=America/New_York:20260913T173500
-SUMMARY:Brick - Bike 75 min + Run 20 min
+DTEND;TZID=America/New_York:20260913T175000
+SUMMARY:Brick - Bike 75 min + Run 3 miles
 DESCRIPTION:Sunday PM brick. Keep it comfortable\; transition practice on
  ly.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:e06fb640-0a62-4405-9a13-d45a6a94d093@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260914-61fae0cad96e5e8ea15b4e8458c589a2@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260914T180000
-DTEND;TZID=America/New_York:20260914T183500
-SUMMARY:Run - Easy 3 miles
+DTEND;TZID=America/New_York:20260914T184500
+SUMMARY:Run - Easy 4 miles
 DESCRIPTION:Taper week. Easy after-work run only.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:12a4b175-31ef-4738-aaf4-b76cf4327dbd@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260915-e6ae885f08645596af987599532789ef@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260915T180000
-DTEND;TZID=America/New_York:20260915T185500
+DTEND;TZID=America/New_York:20260915T190500
 SUMMARY:Swim - Easy 1400 yd
 DESCRIPTION:Taper swim. Smooth and relaxed\; no hard efforts.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:26b8b4e0-e016-4ea5-97ae-da7af679311b@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260916-da52ffb5b5b95ab8a098e9c438d040a8@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260916T120000
 DTEND;TZID=America/New_York:20260916T123500
 SUMMARY:Strength - Light mobility/core
 DESCRIPTION:Light noon strength only: mobility\, core\, hips\, shoulders.
-  No soreness.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:e3865eee-8df5-4c2f-add8-2775937eef7a@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260917-db7e7352f7b355bba08e7b18689e6db9@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260917T180000
-DTEND;TZID=America/New_York:20260917T183000
-SUMMARY:Run - Easy 2 miles
+DTEND;TZID=America/New_York:20260917T183500
+SUMMARY:Run - Easy 3 miles
 DESCRIPTION:Short shakeout after work. Keep it very easy.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:fef447a0-e00d-4a7c-926f-d4faa1d8398d@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260919-d95e49f333315622a0977a742c1edcd5@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260919T080000
-DTEND;TZID=America/New_York:20260919T113000
+DTEND;TZID=America/New_York:20260919T110000
 SUMMARY:Race - Half Marathon
-DESCRIPTION:Goal race. Warm up gently\, start controlled\, fuel early\, a
- nd run by effort.
+DESCRIPTION:Goal race. Start controlled\, fuel early\, and run the first 
+ half patiently.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:40bc5e3c-fdee-4511-bd2a-8418da4a815f@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260920-ef1576a3856a575f81f06f54936b258e@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260920T160000
-DTEND;TZID=America/New_York:20260920T163000
+DTEND;TZID=America/New_York:20260920T164000
 SUMMARY:Swim - Recovery 800 yd
 DESCRIPTION:Very easy recovery swim or water movement. Skip if overly fat
  igued.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:5b9d52d0-057a-43d1-bfc5-4dd976227ae9@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260922-5cbbbbe25584528ea3c32eb4d8ed4fec@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260922T180000
-DTEND;TZID=America/New_York:20260922T190500
+DTEND;TZID=America/New_York:20260922T191000
 SUMMARY:Swim - Endurance 1600 yd
 DESCRIPTION:Return to steady swim. Keep it relaxed after half-marathon we
  ekend.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:182a244c-ee02-4166-8e47-940db6677323@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260923-7bcdad5dd3b750bba7d2faf4424b08dc@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260923T120000
-DTEND;TZID=America/New_York:20260923T124000
+DTEND;TZID=America/New_York:20260923T124500
 SUMMARY:Strength/CrossFit - Light
 DESCRIPTION:Noon light strength or CrossFit. Avoid heavy legs.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:e071e5bd-322f-4e08-b243-b0ea44b6a180@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260924-05cf2710fe5a5322869fdd4cc7382f3b@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260924T180000
-DTEND;TZID=America/New_York:20260924T183500
-SUMMARY:Run - Easy 3 miles
+DTEND;TZID=America/New_York:20260924T185000
+SUMMARY:Run - Easy 4 miles
 DESCRIPTION:Easy after-work run. Keep it light.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:e749eb06-22b2-4ba5-8f47-ef43bb603b9b@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260926-51a72b63d7a858d5b0b01859aed8e0bf@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260926T080000
-DTEND;TZID=America/New_York:20260926T100000
-SUMMARY:Brick - Bike 90 min + Run 20 min
+DTEND;TZID=America/New_York:20260926T100500
+SUMMARY:Brick - Bike 90 min + Run 3 miles
 DESCRIPTION:Triathlon simulation brick. Practice gear\, fueling\, and tra
- nsition flow.
+ nsitions.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:beada203-a4ff-4b22-8b5e-df3c5751dfdd@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260927-b99baf2d6700547489d30135bcd551f9@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260927T160000
-DTEND;TZID=America/New_York:20260927T164500
+DTEND;TZID=America/New_York:20260927T165500
 SUMMARY:Swim - Easy 1200 yd
 DESCRIPTION:Easy swim. Include a few relaxed pickups\; finish feeling fre
  sh.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:9de64ccf-31f5-479e-abe9-73bee86899a9@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260928-3d61b091e45c5f5e8f6dcddc0487b40e@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260928T180000
-DTEND;TZID=America/New_York:20260928T183000
-SUMMARY:Run - Easy 2 miles
+DTEND;TZID=America/New_York:20260928T183500
+SUMMARY:Run - Easy 3 miles
 DESCRIPTION:Race-week shakeout run after work.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:ed5e424c-c17d-4769-af28-96c4bbb7ddeb@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260929-6dd85873135d5a0a8ac98ef3971c9194@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260929T180000
 DTEND;TZID=America/New_York:20260929T184500
 SUMMARY:Swim - Easy 1000 yd
 DESCRIPTION:Easy race-week swim. Practice calm breathing and sighting if 
  possible.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:17aa5f61-1059-4135-97df-3cce4c4986ad@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20260930-ad996fbd7ee15981ab33c050d8caf5f0@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20260930T120000
 DTEND;TZID=America/New_York:20260930T123000
 SUMMARY:Strength - Mobility only
 DESCRIPTION:Very light mobility/core only. No fatigue.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:419f3e96-0dea-4f13-9e65-a853bd2e8266@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20261001-91da523048355a67b70aea6b37f88e8a@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20261001T180000
-DTEND;TZID=America/New_York:20261001T184500
-SUMMARY:Mini Brick - Bike 30 min + Run 10 min
-DESCRIPTION:Short race-week brick. Smooth transitions\, easy effort.
+DTEND;TZID=America/New_York:20261001T185000
+SUMMARY:Mini Brick - Bike 30 min + Run 1 mile
+DESCRIPTION:Short race-week brick. Smooth transitions\, very easy effort.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:1ddf0728-90bb-43cc-9dbe-bf6e29a6bc33@openai-triathlon-plan
-DTSTAMP:20260705T182256Z
+UID:20261003-9fc70740e85b5eb7a5e5e6abe924a493@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20261003T080000
 DTEND;TZID=America/New_York:20261003T110000
 SUMMARY:Race - Sprint Triathlon
 DESCRIPTION:Sprint triathlon: 750m swim plus bike/run. Arrive early\, set
-  transition carefully\, and race controlled.
+  up calmly\, and start conservatively.
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:rosaryville-veterans-day-trail-20k-20261114@openai-triathlon-plan
-DTSTAMP:20260705T182558Z
+UID:20261005-d257cca3f28d5dd7bd0cc942dc152e2b@triathlon-plan
+DTSTAMP:20260705T192604Z
+DTSTART;TZID=America/New_York:20261005T180000
+DTEND;TZID=America/New_York:20261005T184500
+SUMMARY:Run - Recovery 4 miles
+DESCRIPTION:Easy post-tri run. Begin trail 20K block gently.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261006-dca751df671a5566a97b25335d283bf5@triathlon-plan
+DTSTAMP:20260705T192604Z
+DTSTART;TZID=America/New_York:20261006T180000
+DTEND;TZID=America/New_York:20261006T185500
+SUMMARY:Swim - Recovery 1200 yd
+DESCRIPTION:Easy aerobic swim for recovery and maintenance.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261007-42fb32fe28955987aff682a6284180e8@triathlon-plan
+DTSTAMP:20260705T192604Z
+DTSTART;TZID=America/New_York:20261007T120000
+DTEND;TZID=America/New_York:20261007T125000
+SUMMARY:Strength/CrossFit - Moderate
+DESCRIPTION:Strength maintenance. Prioritize hips\, calves\, glutes\, cor
+ e\, and upper back.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261008-61ba79fff8085d378dab2b413aefba44@triathlon-plan
+DTSTAMP:20260705T192604Z
+DTSTART;TZID=America/New_York:20261008T180000
+DTEND;TZID=America/New_York:20261008T190500
+SUMMARY:Run - Trail hills 5 miles
+DESCRIPTION:After-work hill or trail-effort run. Controlled climbs\; easy
+  descents.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261010-6f727469aead5f08969528d59947128c@triathlon-plan
+DTSTAMP:20260705T192604Z
+DTSTART;TZID=America/New_York:20261010T080000
+DTEND;TZID=America/New_York:20261010T092000
+SUMMARY:Trail Long Run - 7 miles
+DESCRIPTION:Saturday AM trail long run. Keep effort easy\; practice footi
+ ng and fueling.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261011-7e57ea16f06354f7a18e3bcd3d399217@triathlon-plan
+DTSTAMP:20260705T192604Z
+DTSTART;TZID=America/New_York:20261011T160000
+DTEND;TZID=America/New_York:20261011T171500
+SUMMARY:Brick/Recovery - Bike 45 min + Run 2 miles
+DESCRIPTION:Easy recovery bike plus short easy run. Keep it comfortable.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261012-389db410063c52489343a65ea26f66da@triathlon-plan
+DTSTAMP:20260705T192604Z
+DTSTART;TZID=America/New_York:20261012T180000
+DTEND;TZID=America/New_York:20261012T185500
+SUMMARY:Run - Easy 5 miles
+DESCRIPTION:Easy after-work run.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261013-bdbc3bde6dd15e3eb40e8cf60e08383f@triathlon-plan
+DTSTAMP:20260705T192604Z
+DTSTART;TZID=America/New_York:20261013T180000
+DTEND;TZID=America/New_York:20261013T190000
+SUMMARY:Swim - Endurance 1300 yd
+DESCRIPTION:Steady maintenance swim.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261014-ad835636872b51d8a90f0a147f6b9d54@triathlon-plan
+DTSTAMP:20260705T192604Z
+DTSTART;TZID=America/New_York:20261014T120000
+DTEND;TZID=America/New_York:20261014T125000
+SUMMARY:Strength/CrossFit - Moderate
+DESCRIPTION:Strength maintenance with trail stability focus.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261015-3c4537912d565963bd0e77c7bf6bc055@triathlon-plan
+DTSTAMP:20260705T192604Z
+DTSTART;TZID=America/New_York:20261015T180000
+DTEND;TZID=America/New_York:20261015T191500
+SUMMARY:Run - Hills 6 miles
+DESCRIPTION:After-work hill workout: controlled climbs\, easy recoveries\
+ , no sprinting.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261017-d4f99d44a3f85b48b27d9243e3eca37e@triathlon-plan
+DTSTAMP:20260705T192604Z
+DTSTART;TZID=America/New_York:20261017T080000
+DTEND;TZID=America/New_York:20261017T093500
+SUMMARY:Trail Long Run - 8 miles
+DESCRIPTION:Saturday AM trail long run. Easy effort\; practice hiking ste
+ ep climbs if needed.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261018-c94a971969785ec2a61ac8731bbb9e57@triathlon-plan
+DTSTAMP:20260705T192604Z
+DTSTART;TZID=America/New_York:20261018T160000
+DTEND;TZID=America/New_York:20261018T172500
+SUMMARY:Brick/Recovery - Bike 50 min + Run 3 miles
+DESCRIPTION:Easy bike plus relaxed run. Keep it aerobic.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261019-335c698cb75259afb97acf720c78a9eb@triathlon-plan
+DTSTAMP:20260705T192604Z
+DTSTART;TZID=America/New_York:20261019T180000
+DTEND;TZID=America/New_York:20261019T185500
+SUMMARY:Run - Easy 5 miles
+DESCRIPTION:Easy after-work run.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261020-3d158781345151248f62042b49cf43b5@triathlon-plan
+DTSTAMP:20260705T192604Z
+DTSTART;TZID=America/New_York:20261020T180000
+DTEND;TZID=America/New_York:20261020T190000
+SUMMARY:Swim - Endurance 1400 yd
+DESCRIPTION:Steady maintenance swim.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261021-3d83ecda3a825940b4abe920f9458946@triathlon-plan
+DTSTAMP:20260705T192604Z
+DTSTART;TZID=America/New_York:20261021T120000
+DTEND;TZID=America/New_York:20261021T125000
+SUMMARY:Strength/CrossFit - Moderate
+DESCRIPTION:Strength maintenance. Avoid excessive soreness.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261022-a7db51ea5c8553d3a111113c9431e8df@triathlon-plan
+DTSTAMP:20260705T192604Z
+DTSTART;TZID=America/New_York:20261022T180000
+DTEND;TZID=America/New_York:20261022T191500
+SUMMARY:Run - Tempo 6 miles
+DESCRIPTION:After-work run with 20 min steady tempo\; keep it controlled.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261024-db7a53a27d305174a439b26b711eb28a@triathlon-plan
+DTSTAMP:20260705T192604Z
+DTSTART;TZID=America/New_York:20261024T080000
+DTEND;TZID=America/New_York:20261024T095500
+SUMMARY:Trail Long Run - 10 miles
+DESCRIPTION:Saturday AM trail long run. Practice fuel\, hydration\, and t
+ echnical footing.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261025-43d917bb6a2f54d19f3df653cb7a3ab8@triathlon-plan
+DTSTAMP:20260705T192604Z
+DTSTART;TZID=America/New_York:20261025T160000
+DTEND;TZID=America/New_York:20261025T172500
+SUMMARY:Brick/Recovery - Bike 50 min + Run 3 miles
+DESCRIPTION:Easy bike plus relaxed run. Stay conversational.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261026-cc78181c637d5fdd8162c003e0df0266@triathlon-plan
+DTSTAMP:20260705T192604Z
+DTSTART;TZID=America/New_York:20261026T180000
+DTEND;TZID=America/New_York:20261026T185500
+SUMMARY:Run - Easy 5 miles
+DESCRIPTION:Easy after-work run.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261027-30ecde4d28a65c00bcd26aaa836aeb44@triathlon-plan
+DTSTAMP:20260705T192604Z
+DTSTART;TZID=America/New_York:20261027T180000
+DTEND;TZID=America/New_York:20261027T190000
+SUMMARY:Swim - Endurance 1400 yd
+DESCRIPTION:Steady maintenance swim.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261028-206ee97e98315228987fdab1df8f19fb@triathlon-plan
+DTSTAMP:20260705T192604Z
+DTSTART;TZID=America/New_York:20261028T120000
+DTEND;TZID=America/New_York:20261028T125000
+SUMMARY:Strength/CrossFit - Moderate
+DESCRIPTION:Strength maintenance\; prioritize stability and mobility.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261029-9b6c09caafed51a9a06582030cb34dab@triathlon-plan
+DTSTAMP:20260705T192604Z
+DTSTART;TZID=America/New_York:20261029T180000
+DTEND;TZID=America/New_York:20261029T191500
+SUMMARY:Run - Trail hills 6 miles
+DESCRIPTION:After-work hill or trail-effort run. Strong but controlled cl
+ imbs.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261031-a8431d4433385f19baf12889ea110b5c@triathlon-plan
+DTSTAMP:20260705T192604Z
+DTSTART;TZID=America/New_York:20261031T080000
+DTEND;TZID=America/New_York:20261031T100500
+SUMMARY:Trail Long Run - 11 miles
+DESCRIPTION:Saturday AM trail long run. Easy effort\; dial in 20K trail f
+ ueling.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261101-913d9b7c7abc5beeb961528deb9bad0e@triathlon-plan
+DTSTAMP:20260705T192604Z
+DTSTART;TZID=America/New_York:20261101T160000
+DTEND;TZID=America/New_York:20261101T172500
+SUMMARY:Brick/Recovery - Bike 50 min + Run 3 miles
+DESCRIPTION:Easy bike plus relaxed run. Keep it aerobic.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261102-40674063388455a6be5c0a4d12fbc56f@triathlon-plan
+DTSTAMP:20260705T192604Z
+DTSTART;TZID=America/New_York:20261102T180000
+DTEND;TZID=America/New_York:20261102T185500
+SUMMARY:Run - Easy 5 miles
+DESCRIPTION:Easy after-work run.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261103-fa07972af851553e8f9737e1bdffd15c@triathlon-plan
+DTSTAMP:20260705T192604Z
+DTSTART;TZID=America/New_York:20261103T180000
+DTEND;TZID=America/New_York:20261103T190000
+SUMMARY:Swim - Endurance 1300 yd
+DESCRIPTION:Steady maintenance swim.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261104-13626565c4025fc39263f9e79e10a36e@triathlon-plan
+DTSTAMP:20260705T192604Z
+DTSTART;TZID=America/New_York:20261104T120000
+DTEND;TZID=America/New_York:20261104T124500
+SUMMARY:Strength/CrossFit - Light/Moderate
+DESCRIPTION:Strength maintenance. Do not create soreness before peak trai
+ l long run.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261105-14c8a1e2f32a5a05b5fa5ae53cedb9a8@triathlon-plan
+DTSTAMP:20260705T192604Z
+DTSTART;TZID=America/New_York:20261105T180000
+DTEND;TZID=America/New_York:20261105T191500
+SUMMARY:Run - Tempo 6 miles
+DESCRIPTION:After-work steady tempo. Controlled\, not all-out.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261107-0689ac87c56957e4a0e3e537a25b6547@triathlon-plan
+DTSTAMP:20260705T192604Z
+DTSTART;TZID=America/New_York:20261107T080000
+DTEND;TZID=America/New_York:20261107T101500
+SUMMARY:Trail Long Run - 12 miles
+DESCRIPTION:Peak trail long run. Easy effort\; practice race-day fueling\
+ , hydration\, and gear.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261108-903275e877f652ce8764e0f0b748557c@triathlon-plan
+DTSTAMP:20260705T192604Z
+DTSTART;TZID=America/New_York:20261108T160000
+DTEND;TZID=America/New_York:20261108T172500
+SUMMARY:Brick/Recovery - Bike 50 min + Run 3 miles
+DESCRIPTION:Easy bike plus relaxed run. Keep this truly easy.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261109-ca33b9c5625f5431890a46bfb36f490f@triathlon-plan
+DTSTAMP:20260705T192604Z
+DTSTART;TZID=America/New_York:20261109T180000
+DTEND;TZID=America/New_York:20261109T184500
+SUMMARY:Run - Easy 4 miles
+DESCRIPTION:Trail 20K taper week. Easy after-work run.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261110-d6e151d3e61151ca827529f1c306eda7@triathlon-plan
+DTSTAMP:20260705T192604Z
+DTSTART;TZID=America/New_York:20261110T180000
+DTEND;TZID=America/New_York:20261110T184500
+SUMMARY:Swim - Easy 1000 yd
+DESCRIPTION:Easy maintenance swim. Keep it relaxed.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261111-2b6d4cc1d1c1596bbbfb5d5345e9c66d@triathlon-plan
+DTSTAMP:20260705T192604Z
+DTSTART;TZID=America/New_York:20261111T120000
+DTEND;TZID=America/New_York:20261111T123000
+SUMMARY:Strength - Mobility only
+DESCRIPTION:Light mobility\, core\, hips\, calves. No fatigue.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261112-bdd6b1fd0d3254c180acb0b76464e6c0@triathlon-plan
+DTSTAMP:20260705T192604Z
+DTSTART;TZID=America/New_York:20261112T180000
+DTEND;TZID=America/New_York:20261112T183500
+SUMMARY:Run - Easy 3 miles
+DESCRIPTION:Short shakeout run. Keep it easy.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261114-96f2549b19da5e07b0809ff34344f66d@triathlon-plan
+DTSTAMP:20260705T192604Z
 DTSTART;TZID=America/New_York:20261114T080000
-DTEND;TZID=America/New_York:20261114T150000
-SUMMARY:Race - Rosaryville Veterans Day Trail Race 20K
-LOCATION:Rosaryville State Park\, Upper Marlboro\, MD
-DESCRIPTION:Trail 20K at Rosaryville State Park. Use as a post-triathlon 
- trail endurance goal\; keep the effort controlled unless racing. 20K has
-  a 7-hour time limit.
+DTEND;TZID=America/New_York:20261114T110000
+SUMMARY:Race - Trail 20K
+DESCRIPTION:Trail 20K goal race. Start conservatively\, hike steep climbs
+  early if useful\, fuel before you feel low.
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
