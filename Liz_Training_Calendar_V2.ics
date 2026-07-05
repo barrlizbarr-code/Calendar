@@ -1,0 +1,2177 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ChatGPT//Liz Polished Training Calendar V2//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Liz Training Calendar V2
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:3158f493-545c-44a6-98eb-d8f311e4b874@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260706T070000
+DTEND;TZID=America/New_York:20260706T071500
+SUMMARY:Weekly Training Preview
+DESCRIPTION:Week 1 focus\n\nStart the integrated plan. Keep swims calm an
+ d easy. Do not chase pace in heat.\n\nPriorities this week\n1. Keep the 
+ key run or race.\n2. Complete Tuesday swim.\n3. Keep one strength or mob
+ ility session.\n4. Do Sunday brick only if you are not overly fatigued.\
+ n\nLong-run/race focus: Race weekend / 5K effort replaces long run\n\nRu
+ le\nIf you miss a workout\, do not stack workouts to catch up. Move on o
+ r ask for a revised week.
+LOCATION:
+CATEGORIES:PREVIEW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ca8eebd3-4512-43bd-92f9-0307051c3751@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260713T070000
+DTEND;TZID=America/New_York:20260713T071500
+SUMMARY:Weekly Training Preview
+DESCRIPTION:Week 2 focus\n\nBuild consistency. One race can count as your
+  quality run.\n\nPriorities this week\n1. Keep the key run or race.\n2. 
+ Complete Tuesday swim.\n3. Keep one strength or mobility session.\n4. Do
+  Sunday brick only if you are not overly fatigued.\n\nLong-run/race focu
+ s: 6 mi or WDF 5K + easy miles\n\nRule\nIf you miss a workout\, do not s
+ tack workouts to catch up. Move on or ask for a revised week.
+LOCATION:
+CATEGORIES:PREVIEW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9a68a57e-c439-42d8-89a8-90ecc04f550b@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260720T070000
+DTEND;TZID=America/New_York:20260720T071500
+SUMMARY:Weekly Training Preview
+DESCRIPTION:Week 3 focus\n\nTechnique week: relaxed swim breathing + trai
+ l race effort control.\n\nPriorities this week\n1. Keep the key run or r
+ ace.\n2. Complete Tuesday swim.\n3. Keep one strength or mobility sessio
+ n.\n4. Do Sunday brick only if you are not overly fatigued.\n\nLong-run/
+ race focus: Trail 5K replaces quality\; add easy miles only if fresh\n\n
+ Rule\nIf you miss a workout\, do not stack workouts to catch up. Move on
+  or ask for a revised week.
+LOCATION:
+CATEGORIES:PREVIEW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:651eaff1-b4bc-4da1-9082-82feaf5fd547@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260727T070000
+DTEND;TZID=America/New_York:20260727T071500
+SUMMARY:Weekly Training Preview
+DESCRIPTION:Week 4 focus\n\nHot-weather race weekend. Prioritize hydratio
+ n and recovery.\n\nPriorities this week\n1. Keep the key run or race.\n2
+ . Complete Tuesday swim.\n3. Keep one strength or mobility session.\n4. 
+ Do Sunday brick only if you are not overly fatigued.\n\nLong-run/race fo
+ cus: Dog Days 8K weekend\; keep controlled\n\nRule\nIf you miss a workou
+ t\, do not stack workouts to catch up. Move on or ask for a revised week
+ .
+LOCATION:
+CATEGORIES:PREVIEW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9bdfb78c-e863-4308-b4b2-251cd0fb41a0@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260803T070000
+DTEND;TZID=America/New_York:20260803T071500
+SUMMARY:Weekly Training Preview
+DESCRIPTION:Week 5 focus\n\nHalf-marathon endurance build + swim 200s.\n\
+ nPriorities this week\n1. Keep the key run or race.\n2. Complete Tuesday
+  swim.\n3. Keep one strength or mobility session.\n4. Do Sunday brick on
+ ly if you are not overly fatigued.\n\nLong-run/race focus: 8 mi\n\nRule\
+ nIf you miss a workout\, do not stack workouts to catch up. Move on or a
+ sk for a revised week.
+LOCATION:
+CATEGORIES:PREVIEW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d3e2faa9-c61b-480d-bd5a-65ff4f909010@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260810T070000
+DTEND;TZID=America/New_York:20260810T071500
+SUMMARY:Weekly Training Preview
+DESCRIPTION:Week 6 focus\n\nSteady training week. Protect sleep and keep 
+ easy days easy.\n\nPriorities this week\n1. Keep the key run or race.\n2
+ . Complete Tuesday swim.\n3. Keep one strength or mobility session.\n4. 
+ Do Sunday brick only if you are not overly fatigued.\n\nLong-run/race fo
+ cus: 9 mi\n\nRule\nIf you miss a workout\, do not stack workouts to catc
+ h up. Move on or ask for a revised week.
+LOCATION:
+CATEGORIES:PREVIEW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bab54133-aa4f-44c9-a196-7b8c6b65ce65@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260817T070000
+DTEND;TZID=America/New_York:20260817T071500
+SUMMARY:Weekly Training Preview
+DESCRIPTION:Week 7 focus\n\nCutback week. Let the fitness absorb.\n\nPrio
+ rities this week\n1. Keep the key run or race.\n2. Complete Tuesday swim
+ .\n3. Keep one strength or mobility session.\n4. Do Sunday brick only if
+  you are not overly fatigued.\n\nLong-run/race focus: 7 mi cutback\n\nRu
+ le\nIf you miss a workout\, do not stack workouts to catch up. Move on o
+ r ask for a revised week.
+LOCATION:
+CATEGORIES:PREVIEW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:95625a2c-03bd-4df4-b433-7dcb22b68051@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260824T070000
+DTEND;TZID=America/New_York:20260824T071500
+SUMMARY:Weekly Training Preview
+DESCRIPTION:Week 8 focus\n\nAnnapolis 10 Mile is a key supported long run
+ .\n\nPriorities this week\n1. Keep the key run or race.\n2. Complete Tue
+ sday swim.\n3. Keep one strength or mobility session.\n4. Do Sunday bric
+ k only if you are not overly fatigued.\n\nLong-run/race focus: 10 mi / A
+ nnapolis 10 Mile\n\nRule\nIf you miss a workout\, do not stack workouts 
+ to catch up. Move on or ask for a revised week.
+LOCATION:
+CATEGORIES:PREVIEW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b88588e8-c102-4b0f-81b8-6e98413d4754@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260831T070000
+DTEND;TZID=America/New_York:20260831T071500
+SUMMARY:Weekly Training Preview
+DESCRIPTION:Week 9 focus\n\nRace-specific swim confidence and half-marath
+ on sharpening.\n\nPriorities this week\n1. Keep the key run or race.\n2.
+  Complete Tuesday swim.\n3. Keep one strength or mobility session.\n4. D
+ o Sunday brick only if you are not overly fatigued.\n\nLong-run/race foc
+ us: 8 mi\n\nRule\nIf you miss a workout\, do not stack workouts to catch
+  up. Move on or ask for a revised week.
+LOCATION:
+CATEGORIES:PREVIEW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d107f45e-61d0-4eb0-b205-28d23b928c0a@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260907T070000
+DTEND;TZID=America/New_York:20260907T071500
+SUMMARY:Weekly Training Preview
+DESCRIPTION:Week 10 focus\n\nHalf-marathon taper begins. Do not make up m
+ issed workouts.\n\nPriorities this week\n1. Keep the key run or race.\n2
+ . Complete Tuesday swim.\n3. Keep one strength or mobility session.\n4. 
+ Do Sunday brick only if you are not overly fatigued.\n\nLong-run/race fo
+ cus: 6 mi taper\n\nRule\nIf you miss a workout\, do not stack workouts t
+ o catch up. Move on or ask for a revised week.
+LOCATION:
+CATEGORIES:PREVIEW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bbe3eb50-4eeb-46b2-bdd1-3b639327753c@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260914T070000
+DTEND;TZID=America/New_York:20260914T071500
+SUMMARY:Weekly Training Preview
+DESCRIPTION:Week 11 focus\n\nHalf marathon week. Freshness beats extra wo
+ rk.\n\nPriorities this week\n1. Keep the key run or race.\n2. Complete T
+ uesday swim.\n3. Keep one strength or mobility session.\n4. Do Sunday br
+ ick only if you are not overly fatigued.\n\nLong-run/race focus: Half ma
+ rathon race\n\nRule\nIf you miss a workout\, do not stack workouts to ca
+ tch up. Move on or ask for a revised week.
+LOCATION:
+CATEGORIES:PREVIEW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5280f40f-6dd9-465b-91d7-500b1498eef1@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260921T070000
+DTEND;TZID=America/New_York:20260921T071500
+SUMMARY:Weekly Training Preview
+DESCRIPTION:Week 12 focus\n\nRecover from the half\, then shift toward tr
+ iathlon-specific bricks.\n\nPriorities this week\n1. Keep the key run or
+  race.\n2. Complete Tuesday swim.\n3. Keep one strength or mobility sess
+ ion.\n4. Do Sunday brick only if you are not overly fatigued.\n\nLong-ru
+ n/race focus: Recovery / tri-specific\n\nRule\nIf you miss a workout\, d
+ o not stack workouts to catch up. Move on or ask for a revised week.
+LOCATION:
+CATEGORIES:PREVIEW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ff087326-ac7a-4302-bac7-37e806cf1488@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260928T070000
+DTEND;TZID=America/New_York:20260928T071500
+SUMMARY:Weekly Training Preview
+DESCRIPTION:Week 13 focus\n\nTriathlon race week. Short\, easy sessions o
+ nly.\n\nPriorities this week\n1. Keep the key run or race.\n2. Complete 
+ Tuesday swim.\n3. Keep one strength or mobility session.\n4. Do Sunday b
+ rick only if you are not overly fatigued.\n\nLong-run/race focus: Sprint
+  triathlon race\n\nRule\nIf you miss a workout\, do not stack workouts t
+ o catch up. Move on or ask for a revised week.
+LOCATION:
+CATEGORIES:PREVIEW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5cf52993-c78f-42a3-8950-ff4cf0ab7ab5@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20261005T070000
+DTEND;TZID=America/New_York:20261005T071500
+SUMMARY:Weekly Training Preview
+DESCRIPTION:Week 14 focus\n\nPost-race recovery. Move gently\, then reass
+ ess next goals.\n\nPriorities this week\n1. Keep the key run or race.\n2
+ . Complete Tuesday swim.\n3. Keep one strength or mobility session.\n4. 
+ Do Sunday brick only if you are not overly fatigued.\n\nLong-run/race fo
+ cus: Recovery\n\nRule\nIf you miss a workout\, do not stack workouts to 
+ catch up. Move on or ask for a revised week.
+LOCATION:
+CATEGORIES:PREVIEW
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:007f03e5-b33d-49cd-bf97-5bc260869af8@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260801T193000
+DTEND;TZID=America/New_York:20260801T194500
+SUMMARY:Monthly Training Reflection
+DESCRIPTION:What improved? What felt hard? Any soreness? What schedule co
+ nstraints are coming? Use this to adjust the next block.
+LOCATION:
+CATEGORIES:REFLECTION
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:66c05fdf-3253-4822-af9e-8698be6a3a8e@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260901T193000
+DTEND;TZID=America/New_York:20260901T194500
+SUMMARY:Monthly Training Reflection
+DESCRIPTION:What improved? What felt hard? Any soreness? What schedule co
+ nstraints are coming? Use this to adjust the next block.
+LOCATION:
+CATEGORIES:REFLECTION
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bdb239cd-a55a-422a-a5df-d1a663c333fd@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20261001T193000
+DTEND;TZID=America/New_York:20261001T194500
+SUMMARY:Monthly Training Reflection
+DESCRIPTION:What improved? What felt hard? Any soreness? What schedule co
+ nstraints are coming? Use this to adjust the next block.
+LOCATION:
+CATEGORIES:REFLECTION
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bad773ed-48f9-46a6-93c3-c51172a886d7@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260711T073000
+DTEND;TZID=America/New_York:20260711T083000
+SUMMARY:Annapolis Women's Distance Festival 5K
+DESCRIPTION:Supported race/workout. Warm up 10 min easy. Do not overcook 
+ this in heat.
+LOCATION:
+CATEGORIES:RACE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4cc73311-9f71-40c1-9545-066d0dcbe359@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260719T080000
+DTEND;TZID=America/New_York:20260719T090000
+SUMMARY:Women's Distance Festival 5K — Lutherville
+DESCRIPTION:Race effort or strong tempo. Warm up 10 min easy.
+LOCATION:
+CATEGORIES:RACE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0c79e4ce-fdfb-4792-8be0-7f05ed544af5@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260725T080000
+DTEND;TZID=America/New_York:20260725T090000
+SUMMARY:Trail 5K
+DESCRIPTION:Trail race/workout. Effort matters more than pace.
+LOCATION:
+CATEGORIES:RACE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:258eeb1b-c91c-4cd4-9b77-572bedd73052@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260801T070000
+DTEND;TZID=America/New_York:20260801T080000
+SUMMARY:Frederick Women's Distance Festival 5K
+DESCRIPTION:Training race. Keep it controlled if Dog Days 8K is tomorrow.
+LOCATION:Frederick Community College Student Center\, 7932 Opossumtown Pi
+ ke\, Frederick\, MD
+CATEGORIES:RACE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3085e4eb-fa32-447d-a8e8-8961efedb0bd@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260802T080000
+DTEND;TZID=America/New_York:20260802T091500
+SUMMARY:Dog Days 8K
+DESCRIPTION:Hot-weather race. Controlled effort unless the weather is unu
+ sually kind.
+LOCATION:
+CATEGORIES:RACE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:38372daa-9bbc-49ae-9592-b6b076d4deeb@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260830T070000
+DTEND;TZID=America/New_York:20260830T093000
+SUMMARY:Annapolis 10 Mile Run
+DESCRIPTION:Key supported long run/race. Start conservatively and practic
+ e fueling.
+LOCATION:Navy–Marine Corps Memorial Stadium
+CATEGORIES:RACE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2865462a-b23f-436e-a61d-f7efe3aab7c4@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260919T080000
+DTEND;TZID=America/New_York:20260919T110000
+SUMMARY:Half Marathon
+DESCRIPTION:Primary running goal. Start conservatively. Fuel early.
+LOCATION:
+CATEGORIES:RACE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7b9e5002-3ee5-49eb-8b14-4d30b07aa45b@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20261003T080000
+DTEND;TZID=America/New_York:20261003T113000
+SUMMARY:Sprint Triathlon
+DESCRIPTION:750 m swim + bike + run. Start the swim relaxed and settle be
+ fore worrying about pace.
+LOCATION:
+CATEGORIES:RACE
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:39d8a73b-e8e4-401c-81ca-cf7ad3a4e42a@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260918T180000
+DTEND;TZID=America/New_York:20260918T183000
+SUMMARY:Half Marathon Race Prep
+DESCRIPTION:Packet pickup if needed. Lay out gear. Charge watch. Check we
+ ather. Prepare nutrition and hydration. Go to bed early.
+LOCATION:
+CATEGORIES:LOGISTICS
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d8643186-d426-4af1-afe8-eb008c29d472@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20261002T180000
+DTEND;TZID=America/New_York:20261002T183000
+SUMMARY:Sprint Triathlon Race Prep
+DESCRIPTION:Packet pickup if needed. Lay out gear. Charge watch. Check we
+ ather. Prepare nutrition and hydration. Go to bed early.
+LOCATION:
+CATEGORIES:LOGISTICS
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cdd6aabb-384a-461a-b068-c369cf23fc55@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260707T183000
+DTEND;TZID=America/New_York:20260707T191500
+SUMMARY:Swim — Technique + Endurance
+DESCRIPTION:Outdoor pool\n\nWorkout type: Technique + basic endurance\nDu
+ ration: 35–40 min\nYardage: 500–650 yd\nEffort: RPE 3–4/10\n\nWarm-up\n4
+  x 50 easy\n\nTechnique\n4 x 25 catch-up drill\n4 x 25 fingertip drag\n\
+ nMain set\n4 x 50 relaxed\n2 x 100 easy\n\nCool-down\n50 easy\n\nCoachin
+ g cue\nExhale continuously underwater. Long reach before each pull.\n\nA
+ djustment\nIf tired: do 4 x 50 + drills + 1 x 100 and stop.
+LOCATION:Outdoor pool
+CATEGORIES:SWIM
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9fe9c725-d1f9-4c90-afaa-749d85b79982@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260708T120000
+DTEND;TZID=America/New_York:20260708T124500
+SUMMARY:Strength A — Glutes/Core/Posture
+DESCRIPTION:Strength A: glutes\, hamstrings\, core\, posture\nDuration: 3
+ 5–45 min\nEffort: RPE 5–6/10\n\nSuggested session\nGoblet squat: 3 x 8–1
+ 0\nRomanian deadlift: 3 x 8–10\nStep-ups or split squats: 3 x 8/side\nDe
+ ad bug: 3 x 8/side\nSide plank: 2 x 30 sec/side\nBand pull-aparts or row
+ s: 3 x 12\n\nGoal\nSupport running form and injury resistance.
+LOCATION:
+CATEGORIES:STRENGTH
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9903ffa2-610f-4505-9243-295ccd0dcdbb@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260709T173000
+DTEND;TZID=America/New_York:20260709T183000
+SUMMARY:Workout Run
+DESCRIPTION:Run type: Easy + strides\nDistance: 3 miles\nEffort: mostly R
+ PE 3–4/10\n\n3 miles easy\n4 x 20 sec relaxed strides\n\nGoal\nKeep leg 
+ turnover without fatigue.
+LOCATION:
+CATEGORIES:RUN
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f819e89c-3330-4990-b89c-60a8fc9cadcb@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260710T120000
+DTEND;TZID=America/New_York:20260710T124500
+SUMMARY:Optional Strength B or CrossFit
+DESCRIPTION:Strength B or CrossFit option\nDuration: 35–50 min\nEffort: R
+ PE 5–6/10\n\nFocus\nHips\, stability\, shoulders\, back\, core.\n\nCross
+ Fit note\nScale lower-body volume and avoid max-effort legs before Satur
+ day long run.
+LOCATION:
+CATEGORIES:STRENGTH
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a81e6bfc-fc0a-4719-ae68-58fd28af0395@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260712T100000
+DTEND;TZID=America/New_York:20260712T104500
+SUMMARY:Swim — Weekend Endurance
+DESCRIPTION:Outdoor pool\n\nWorkout type: Endurance foundation\nDuration:
+  35–40 min\nYardage: 600–750 yd\nEffort: RPE 4/10\n\n100 easy\n4 x 50 ea
+ sy\n150 continuous\nRest 45–60 sec\n150 continuous\n2 x 50 easy\n\nMiles
+ tone\nBuild from 100 yd continuous toward 150–200 yd continuous.
+LOCATION:Outdoor pool
+CATEGORIES:SWIM
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a9e38378-6ba0-447c-8282-1114b9cfa171@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260712T160000
+DTEND;TZID=America/New_York:20260712T171500
+SUMMARY:Brick — Bike + Run
+DESCRIPTION:Brick workout: bike + short run\nTime: Sunday PM\nEffort: RPE
+  4–5/10\n\nBike\n35–50 min easy/moderate\n\nTransition run\n10 min very 
+ easy\n\nGoal\nPractice bike-to-run legs without compromising half-marath
+ on training.
+LOCATION:
+CATEGORIES:BRICK
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c2c170d0-4737-44b3-bcd8-1ffec73d9d3b@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260712T190000
+DTEND;TZID=America/New_York:20260712T191500
+SUMMARY:Weekly Check-In
+DESCRIPTION:Review the week. Move missed workouts instead of making them 
+ up. Note sleep\, soreness\, heat\, and schedule changes.
+LOCATION:
+CATEGORIES:CHECK-IN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5f9f2043-9c99-4f59-afbb-1be199e42c16@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260713T173000
+DTEND;TZID=America/New_York:20260713T182000
+SUMMARY:Easy Run — 3 miles
+DESCRIPTION:Run type: Easy\nDistance: 3 miles\nEffort: RPE 3–4/10\n\nInst
+ ructions\nKeep this conversational. In Maryland heat\, slow down as much
+  as needed.\n\nOptional\nAdd 4 x 20 sec relaxed strides only if you feel
+  good.\n\nDo not\nTurn this into a tempo run.
+LOCATION:
+CATEGORIES:RUN
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:494e4078-3965-4acb-ad28-d62a2f157422@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260714T183000
+DTEND;TZID=America/New_York:20260714T191500
+SUMMARY:Swim — Technique + Endurance
+DESCRIPTION:Outdoor pool\n\nWorkout type: Technique + basic endurance\nDu
+ ration: 35–40 min\nYardage: 500–650 yd\nEffort: RPE 3–4/10\n\nWarm-up\n4
+  x 50 easy\n\nTechnique\n4 x 25 catch-up drill\n4 x 25 fingertip drag\n\
+ nMain set\n4 x 50 relaxed\n2 x 100 easy\n\nCool-down\n50 easy\n\nCoachin
+ g cue\nExhale continuously underwater. Long reach before each pull.\n\nA
+ djustment\nIf tired: do 4 x 50 + drills + 1 x 100 and stop.
+LOCATION:Outdoor pool
+CATEGORIES:SWIM
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fc290344-42c7-4eed-ab8f-a8bba1741d87@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260715T120000
+DTEND;TZID=America/New_York:20260715T124500
+SUMMARY:Strength A — Glutes/Core/Posture
+DESCRIPTION:Strength A: glutes\, hamstrings\, core\, posture\nDuration: 3
+ 5–45 min\nEffort: RPE 5–6/10\n\nSuggested session\nGoblet squat: 3 x 8–1
+ 0\nRomanian deadlift: 3 x 8–10\nStep-ups or split squats: 3 x 8/side\nDe
+ ad bug: 3 x 8/side\nSide plank: 2 x 30 sec/side\nBand pull-aparts or row
+ s: 3 x 12\n\nGoal\nSupport running form and injury resistance.
+LOCATION:
+CATEGORIES:STRENGTH
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:61eebb19-0009-4e89-b669-670b275992c4@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260716T173000
+DTEND;TZID=America/New_York:20260716T183000
+SUMMARY:Workout Run
+DESCRIPTION:Run type: Easy + strides\nDistance: 3 miles\nEffort: mostly R
+ PE 3–4/10\n\n3 miles easy\n4 x 20 sec relaxed strides\n\nGoal\nKeep leg 
+ turnover without fatigue.
+LOCATION:
+CATEGORIES:RUN
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4e79f5ca-0571-477f-807b-d36361ce1d3c@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260717T120000
+DTEND;TZID=America/New_York:20260717T124500
+SUMMARY:Optional Strength B or CrossFit
+DESCRIPTION:Strength B or CrossFit option\nDuration: 35–50 min\nEffort: R
+ PE 5–6/10\n\nFocus\nHips\, stability\, shoulders\, back\, core.\n\nCross
+ Fit note\nScale lower-body volume and avoid max-effort legs before Satur
+ day long run.
+LOCATION:
+CATEGORIES:STRENGTH
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c9dfb961-5c16-490b-a755-aea028f137cb@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260718T080000
+DTEND;TZID=America/New_York:20260718T100000
+SUMMARY:Long Run — 6 miles
+DESCRIPTION:Run type: Long run\nTime: Saturday morning\nDistance: 6 miles
+ \nEffort: RPE 3–5/10\n\nFueling\nIf over 75 min\, practice race fueling.
+ \nBring water/electrolytes.\nRecover with protein within an hour.\n\nHea
+ t rule\nSlow down early. Finish steady\, not wrecked.
+LOCATION:
+CATEGORIES:RUN
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:37cf56b5-bdcb-410d-a64a-aa0ecd5ab1b6@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260719T100000
+DTEND;TZID=America/New_York:20260719T104500
+SUMMARY:Swim — Weekend Endurance
+DESCRIPTION:Outdoor pool\n\nWorkout type: Endurance foundation\nDuration:
+  35–40 min\nYardage: 600–750 yd\nEffort: RPE 4/10\n\n100 easy\n4 x 50 ea
+ sy\n150 continuous\nRest 45–60 sec\n150 continuous\n2 x 50 easy\n\nMiles
+ tone\nBuild from 100 yd continuous toward 150–200 yd continuous.
+LOCATION:Outdoor pool
+CATEGORIES:SWIM
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f8989393-c854-42bb-9ad3-82028d31c198@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260719T160000
+DTEND;TZID=America/New_York:20260719T171500
+SUMMARY:Brick — Bike + Run
+DESCRIPTION:Brick workout: bike + short run\nTime: Sunday PM\nEffort: RPE
+  4–5/10\n\nBike\n35–50 min easy/moderate\n\nTransition run\n10 min very 
+ easy\n\nGoal\nPractice bike-to-run legs without compromising half-marath
+ on training.
+LOCATION:
+CATEGORIES:BRICK
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d294216c-dab9-4da8-a0b4-5e1e618f0c04@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260719T190000
+DTEND;TZID=America/New_York:20260719T191500
+SUMMARY:Weekly Check-In
+DESCRIPTION:Review the week. Move missed workouts instead of making them 
+ up. Note sleep\, soreness\, heat\, and schedule changes.
+LOCATION:
+CATEGORIES:CHECK-IN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:27b636d5-cc81-408b-87c3-2b8e0acc75ad@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260720T173000
+DTEND;TZID=America/New_York:20260720T182000
+SUMMARY:Easy Run — 3 miles
+DESCRIPTION:Run type: Easy\nDistance: 3 miles\nEffort: RPE 3–4/10\n\nInst
+ ructions\nKeep this conversational. In Maryland heat\, slow down as much
+  as needed.\n\nOptional\nAdd 4 x 20 sec relaxed strides only if you feel
+  good.\n\nDo not\nTurn this into a tempo run.
+LOCATION:
+CATEGORIES:RUN
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e3b9cc53-513e-4532-93fd-9df7966f955a@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260721T183000
+DTEND;TZID=America/New_York:20260721T191500
+SUMMARY:Swim — Technique + Endurance
+DESCRIPTION:Outdoor pool\n\nWorkout type: Technique + basic endurance\nDu
+ ration: 35–40 min\nYardage: 500–650 yd\nEffort: RPE 3–4/10\n\nWarm-up\n4
+  x 50 easy\n\nTechnique\n4 x 25 catch-up drill\n4 x 25 fingertip drag\n\
+ nMain set\n4 x 50 relaxed\n2 x 100 easy\n\nCool-down\n50 easy\n\nCoachin
+ g cue\nExhale continuously underwater. Long reach before each pull.\n\nA
+ djustment\nIf tired: do 4 x 50 + drills + 1 x 100 and stop.
+LOCATION:Outdoor pool
+CATEGORIES:SWIM
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f0564ee9-1078-4c19-8c0f-a134c61751f4@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260722T120000
+DTEND;TZID=America/New_York:20260722T124500
+SUMMARY:Strength A — Glutes/Core/Posture
+DESCRIPTION:Strength A: glutes\, hamstrings\, core\, posture\nDuration: 3
+ 5–45 min\nEffort: RPE 5–6/10\n\nSuggested session\nGoblet squat: 3 x 8–1
+ 0\nRomanian deadlift: 3 x 8–10\nStep-ups or split squats: 3 x 8/side\nDe
+ ad bug: 3 x 8/side\nSide plank: 2 x 30 sec/side\nBand pull-aparts or row
+ s: 3 x 12\n\nGoal\nSupport running form and injury resistance.
+LOCATION:
+CATEGORIES:STRENGTH
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3f241522-87a8-4595-8298-3f5233490fe5@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260723T173000
+DTEND;TZID=America/New_York:20260723T183000
+SUMMARY:Workout Run
+DESCRIPTION:Run type: Easy + strides\nDistance: 3 miles\nEffort: mostly R
+ PE 3–4/10\n\n3 miles easy\n4 x 20 sec relaxed strides\n\nGoal\nKeep leg 
+ turnover without fatigue.
+LOCATION:
+CATEGORIES:RUN
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2ad28fa0-01ac-4243-a0e1-393260d61e3b@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260724T120000
+DTEND;TZID=America/New_York:20260724T124500
+SUMMARY:Optional Strength B or CrossFit
+DESCRIPTION:Strength B or CrossFit option\nDuration: 35–50 min\nEffort: R
+ PE 5–6/10\n\nFocus\nHips\, stability\, shoulders\, back\, core.\n\nCross
+ Fit note\nScale lower-body volume and avoid max-effort legs before Satur
+ day long run.
+LOCATION:
+CATEGORIES:STRENGTH
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9d3352f0-9dc7-44ba-aa3b-e67ed70b22c6@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260726T100000
+DTEND;TZID=America/New_York:20260726T104500
+SUMMARY:Swim — Weekend Endurance
+DESCRIPTION:Outdoor pool\n\nWorkout type: Endurance foundation\nDuration:
+  35–40 min\nYardage: 600–750 yd\nEffort: RPE 4/10\n\n100 easy\n4 x 50 ea
+ sy\n150 continuous\nRest 45–60 sec\n150 continuous\n2 x 50 easy\n\nMiles
+ tone\nBuild from 100 yd continuous toward 150–200 yd continuous.
+LOCATION:Outdoor pool
+CATEGORIES:SWIM
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:879e6ef7-6100-4f53-9928-11c710c8cb4a@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260726T160000
+DTEND;TZID=America/New_York:20260726T171500
+SUMMARY:Brick — Bike + Run
+DESCRIPTION:Brick workout: bike + short run\nTime: Sunday PM\nEffort: RPE
+  4–5/10\n\nBike\n35–50 min easy/moderate\n\nTransition run\n10 min very 
+ easy\n\nGoal\nPractice bike-to-run legs without compromising half-marath
+ on training.
+LOCATION:
+CATEGORIES:BRICK
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:81406c3a-e0d3-4647-b325-49548c4650b1@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260726T190000
+DTEND;TZID=America/New_York:20260726T191500
+SUMMARY:Weekly Check-In
+DESCRIPTION:Review the week. Move missed workouts instead of making them 
+ up. Note sleep\, soreness\, heat\, and schedule changes.
+LOCATION:
+CATEGORIES:CHECK-IN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0cf3a74d-62d6-4b76-a05f-93ef2195f963@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260727T173000
+DTEND;TZID=America/New_York:20260727T182000
+SUMMARY:Easy Run — 3 miles
+DESCRIPTION:Run type: Easy\nDistance: 3 miles\nEffort: RPE 3–4/10\n\nInst
+ ructions\nKeep this conversational. In Maryland heat\, slow down as much
+  as needed.\n\nOptional\nAdd 4 x 20 sec relaxed strides only if you feel
+  good.\n\nDo not\nTurn this into a tempo run.
+LOCATION:
+CATEGORIES:RUN
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3cc37765-a4e3-4042-9c28-1db17219b4b0@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260728T183000
+DTEND;TZID=America/New_York:20260728T191500
+SUMMARY:Swim — Technique + Endurance
+DESCRIPTION:Outdoor pool\n\nWorkout type: Technique + basic endurance\nDu
+ ration: 35–40 min\nYardage: 500–650 yd\nEffort: RPE 3–4/10\n\nWarm-up\n4
+  x 50 easy\n\nTechnique\n4 x 25 catch-up drill\n4 x 25 fingertip drag\n\
+ nMain set\n4 x 50 relaxed\n2 x 100 easy\n\nCool-down\n50 easy\n\nCoachin
+ g cue\nExhale continuously underwater. Long reach before each pull.\n\nA
+ djustment\nIf tired: do 4 x 50 + drills + 1 x 100 and stop.
+LOCATION:Outdoor pool
+CATEGORIES:SWIM
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ee3b1f79-cec6-4f1b-a226-f9622d7a86bb@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260729T120000
+DTEND;TZID=America/New_York:20260729T124500
+SUMMARY:Strength A — Glutes/Core/Posture
+DESCRIPTION:Strength A: glutes\, hamstrings\, core\, posture\nDuration: 3
+ 5–45 min\nEffort: RPE 5–6/10\n\nSuggested session\nGoblet squat: 3 x 8–1
+ 0\nRomanian deadlift: 3 x 8–10\nStep-ups or split squats: 3 x 8/side\nDe
+ ad bug: 3 x 8/side\nSide plank: 2 x 30 sec/side\nBand pull-aparts or row
+ s: 3 x 12\n\nGoal\nSupport running form and injury resistance.
+LOCATION:
+CATEGORIES:STRENGTH
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cc989857-60a5-42d3-a845-ba965ce5b40e@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260730T173000
+DTEND;TZID=America/New_York:20260730T183000
+SUMMARY:Workout Run
+DESCRIPTION:Run type: Easy + strides\nDistance: 3 miles\nEffort: mostly R
+ PE 3–4/10\n\n3 miles easy\n4 x 20 sec relaxed strides\n\nGoal\nKeep leg 
+ turnover without fatigue.
+LOCATION:
+CATEGORIES:RUN
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3addfb05-011a-481f-a2a0-63b93b806811@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260731T120000
+DTEND;TZID=America/New_York:20260731T124500
+SUMMARY:Optional Strength B or CrossFit
+DESCRIPTION:Strength B or CrossFit option\nDuration: 35–50 min\nEffort: R
+ PE 5–6/10\n\nFocus\nHips\, stability\, shoulders\, back\, core.\n\nCross
+ Fit note\nScale lower-body volume and avoid max-effort legs before Satur
+ day long run.
+LOCATION:
+CATEGORIES:STRENGTH
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b17ada70-ac00-48e8-9b4c-5f8a1fc73753@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260802T100000
+DTEND;TZID=America/New_York:20260802T104500
+SUMMARY:Swim — Weekend Endurance
+DESCRIPTION:Outdoor pool\n\nWorkout type: Endurance build\nDuration: 40–4
+ 5 min\nYardage: 800–1000 yd\nEffort: RPE 4–5/10\n\n200 easy\n2 x 200 con
+ tinuous\, 45 sec rest\n4 x 50 smooth\nOptional 200 continuous\n\nMilesto
+ ne\nWork toward 400 yd nonstop.
+LOCATION:Outdoor pool
+CATEGORIES:SWIM
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f465b23-70dc-481c-971c-a5ef8afdbb20@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260802T190000
+DTEND;TZID=America/New_York:20260802T191500
+SUMMARY:Weekly Check-In
+DESCRIPTION:Review the week. Move missed workouts instead of making them 
+ up. Note sleep\, soreness\, heat\, and schedule changes.
+LOCATION:
+CATEGORIES:CHECK-IN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9b50f5ff-a42c-4037-873b-acce8c9beb36@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260803T173000
+DTEND;TZID=America/New_York:20260803T182000
+SUMMARY:Easy Run — 4 miles
+DESCRIPTION:Run type: Easy\nDistance: 4 miles\nEffort: RPE 3–4/10\n\nInst
+ ructions\nKeep this conversational. In Maryland heat\, slow down as much
+  as needed.\n\nOptional\nAdd 4 x 20 sec relaxed strides only if you feel
+  good.\n\nDo not\nTurn this into a tempo run.
+LOCATION:
+CATEGORIES:RUN
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d97cffa7-c98d-41e0-8aa2-e2f2c926b305@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260804T183000
+DTEND;TZID=America/New_York:20260804T191500
+SUMMARY:Swim — Technique + Endurance
+DESCRIPTION:Outdoor pool\n\nWorkout type: Technique + endurance\nDuration
+ : 40–45 min\nYardage: 700–900 yd\nEffort: RPE 4–5/10\n\nWarm-up\n100 eas
+ y\n\nTechnique\n4 x 25 catch-up drill\n4 x 25 fingertip drag\n\nMain set
+ \n4 x 100 easy/moderate\, 30 sec rest\n4 x 50 smooth\n\nCool-down\n100 e
+ asy\n\nCoaching cue\nRotate from your hips. Keep your head quiet when br
+ eathing.\n\nMilestone\nMake 100-yard repeats feel calm and controlled.
+LOCATION:Outdoor pool
+CATEGORIES:SWIM
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3fd9decf-dd63-4506-9d3a-5d25d6c12401@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260805T120000
+DTEND;TZID=America/New_York:20260805T124500
+SUMMARY:Strength A — Glutes/Core/Posture
+DESCRIPTION:Strength A: glutes\, hamstrings\, core\, posture\nDuration: 3
+ 5–45 min\nEffort: RPE 5–6/10\n\nSuggested session\nGoblet squat: 3 x 8–1
+ 0\nRomanian deadlift: 3 x 8–10\nStep-ups or split squats: 3 x 8/side\nDe
+ ad bug: 3 x 8/side\nSide plank: 2 x 30 sec/side\nBand pull-aparts or row
+ s: 3 x 12\n\nGoal\nSupport running form and injury resistance.
+LOCATION:
+CATEGORIES:STRENGTH
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:25d74e59-3279-418a-b16f-5dec50e3158f@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260806T173000
+DTEND;TZID=America/New_York:20260806T183000
+SUMMARY:Workout Run
+DESCRIPTION:Run type: Quality\nDistance: 4–5 miles\nEffort: RPE 6/10 duri
+ ng hard parts\n\nWarm-up\n1 mile easy\n\nMain set\n3 x 5 min comfortably
+  hard\n3 min easy jog between reps\n\nCool-down\nEasy jog to finish\n\nH
+ eat rule\nEffort beats pace.
+LOCATION:
+CATEGORIES:RUN
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ce6b16e8-9cff-4ce9-936b-bf22a88c5f16@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260807T120000
+DTEND;TZID=America/New_York:20260807T124500
+SUMMARY:Optional Strength B or CrossFit
+DESCRIPTION:Strength B or CrossFit option\nDuration: 35–50 min\nEffort: R
+ PE 5–6/10\n\nFocus\nHips\, stability\, shoulders\, back\, core.\n\nCross
+ Fit note\nScale lower-body volume and avoid max-effort legs before Satur
+ day long run.
+LOCATION:
+CATEGORIES:STRENGTH
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8ab90f00-dce1-40da-adb5-3101b488dfd9@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260808T080000
+DTEND;TZID=America/New_York:20260808T100000
+SUMMARY:Long Run — 8 miles
+DESCRIPTION:Run type: Long run\nTime: Saturday morning\nDistance: 8 miles
+ \nEffort: RPE 3–5/10\n\nFueling\nIf over 75 min\, practice race fueling.
+ \nBring water/electrolytes.\nRecover with protein within an hour.\n\nHea
+ t rule\nSlow down early. Finish steady\, not wrecked.
+LOCATION:
+CATEGORIES:RUN
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9c43fa31-baec-42e0-a758-c4da219f6d5b@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260809T100000
+DTEND;TZID=America/New_York:20260809T104500
+SUMMARY:Swim — Weekend Endurance
+DESCRIPTION:Outdoor pool\n\nWorkout type: Endurance build\nDuration: 40–4
+ 5 min\nYardage: 800–1000 yd\nEffort: RPE 4–5/10\n\n200 easy\n2 x 200 con
+ tinuous\, 45 sec rest\n4 x 50 smooth\nOptional 200 continuous\n\nMilesto
+ ne\nWork toward 400 yd nonstop.
+LOCATION:Outdoor pool
+CATEGORIES:SWIM
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fb668ac2-4c15-48b0-bb7d-b5ef0da56e8d@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260809T160000
+DTEND;TZID=America/New_York:20260809T171500
+SUMMARY:Brick — Bike + Run
+DESCRIPTION:Brick workout: bike + short run\nTime: Sunday PM\nEffort: RPE
+  4–5/10\n\nBike\n35–50 min easy/moderate\n\nTransition run\n10 min very 
+ easy\n\nGoal\nPractice bike-to-run legs without compromising half-marath
+ on training.
+LOCATION:
+CATEGORIES:BRICK
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:328570df-7f2d-4d25-94f5-a48246dcab37@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260809T190000
+DTEND;TZID=America/New_York:20260809T191500
+SUMMARY:Weekly Check-In
+DESCRIPTION:Review the week. Move missed workouts instead of making them 
+ up. Note sleep\, soreness\, heat\, and schedule changes.
+LOCATION:
+CATEGORIES:CHECK-IN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3dcf0c77-8acb-403a-ab77-907beca96ff7@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260810T173000
+DTEND;TZID=America/New_York:20260810T182000
+SUMMARY:Easy Run — 4 miles
+DESCRIPTION:Run type: Easy\nDistance: 4 miles\nEffort: RPE 3–4/10\n\nInst
+ ructions\nKeep this conversational. In Maryland heat\, slow down as much
+  as needed.\n\nOptional\nAdd 4 x 20 sec relaxed strides only if you feel
+  good.\n\nDo not\nTurn this into a tempo run.
+LOCATION:
+CATEGORIES:RUN
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f2b3893b-37e8-4805-bd31-698ef6d6d95a@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260811T183000
+DTEND;TZID=America/New_York:20260811T191500
+SUMMARY:Swim — Technique + Endurance
+DESCRIPTION:Outdoor pool\n\nWorkout type: Technique + endurance\nDuration
+ : 40–45 min\nYardage: 700–900 yd\nEffort: RPE 4–5/10\n\nWarm-up\n100 eas
+ y\n\nTechnique\n4 x 25 catch-up drill\n4 x 25 fingertip drag\n\nMain set
+ \n4 x 100 easy/moderate\, 30 sec rest\n4 x 50 smooth\n\nCool-down\n100 e
+ asy\n\nCoaching cue\nRotate from your hips. Keep your head quiet when br
+ eathing.\n\nMilestone\nMake 100-yard repeats feel calm and controlled.
+LOCATION:Outdoor pool
+CATEGORIES:SWIM
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1ac92990-120e-4ab0-8590-65f797c2822b@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260812T120000
+DTEND;TZID=America/New_York:20260812T124500
+SUMMARY:Strength A — Glutes/Core/Posture
+DESCRIPTION:Strength A: glutes\, hamstrings\, core\, posture\nDuration: 3
+ 5–45 min\nEffort: RPE 5–6/10\n\nSuggested session\nGoblet squat: 3 x 8–1
+ 0\nRomanian deadlift: 3 x 8–10\nStep-ups or split squats: 3 x 8/side\nDe
+ ad bug: 3 x 8/side\nSide plank: 2 x 30 sec/side\nBand pull-aparts or row
+ s: 3 x 12\n\nGoal\nSupport running form and injury resistance.
+LOCATION:
+CATEGORIES:STRENGTH
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:390110ab-0938-4e34-8555-f01a6dff30fb@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260813T173000
+DTEND;TZID=America/New_York:20260813T183000
+SUMMARY:Workout Run
+DESCRIPTION:Run type: Quality\nDistance: 4–5 miles\nEffort: RPE 6/10 duri
+ ng hard parts\n\nWarm-up\n1 mile easy\n\nMain set\n3 x 5 min comfortably
+  hard\n3 min easy jog between reps\n\nCool-down\nEasy jog to finish\n\nH
+ eat rule\nEffort beats pace.
+LOCATION:
+CATEGORIES:RUN
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b0091580-e214-4ba5-94dd-e21e62d6778e@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260814T120000
+DTEND;TZID=America/New_York:20260814T124500
+SUMMARY:Optional Strength B or CrossFit
+DESCRIPTION:Strength B or CrossFit option\nDuration: 35–50 min\nEffort: R
+ PE 5–6/10\n\nFocus\nHips\, stability\, shoulders\, back\, core.\n\nCross
+ Fit note\nScale lower-body volume and avoid max-effort legs before Satur
+ day long run.
+LOCATION:
+CATEGORIES:STRENGTH
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:734450bc-e077-48de-b951-3bf8d4679f9e@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260815T080000
+DTEND;TZID=America/New_York:20260815T100000
+SUMMARY:Long Run — 9 miles
+DESCRIPTION:Run type: Long run\nTime: Saturday morning\nDistance: 9 miles
+ \nEffort: RPE 3–5/10\n\nFueling\nIf over 75 min\, practice race fueling.
+ \nBring water/electrolytes.\nRecover with protein within an hour.\n\nHea
+ t rule\nSlow down early. Finish steady\, not wrecked.
+LOCATION:
+CATEGORIES:RUN
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:56b11c29-839e-41c8-9b78-ddc8d0a30046@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260816T100000
+DTEND;TZID=America/New_York:20260816T104500
+SUMMARY:Swim — Weekend Endurance
+DESCRIPTION:Outdoor pool\n\nWorkout type: Endurance build\nDuration: 40–4
+ 5 min\nYardage: 800–1000 yd\nEffort: RPE 4–5/10\n\n200 easy\n2 x 200 con
+ tinuous\, 45 sec rest\n4 x 50 smooth\nOptional 200 continuous\n\nMilesto
+ ne\nWork toward 400 yd nonstop.
+LOCATION:Outdoor pool
+CATEGORIES:SWIM
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:89670394-259a-4f3d-b16c-c7ee22225c6f@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260816T160000
+DTEND;TZID=America/New_York:20260816T171500
+SUMMARY:Brick — Bike + Run
+DESCRIPTION:Brick workout: bike + short run\nTime: Sunday PM\nEffort: RPE
+  4–5/10\n\nBike\n35–50 min easy/moderate\n\nTransition run\n10 min very 
+ easy\n\nGoal\nPractice bike-to-run legs without compromising half-marath
+ on training.
+LOCATION:
+CATEGORIES:BRICK
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6d12363d-f37f-4200-bdc3-c4117aab0d9d@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260816T190000
+DTEND;TZID=America/New_York:20260816T191500
+SUMMARY:Weekly Check-In
+DESCRIPTION:Review the week. Move missed workouts instead of making them 
+ up. Note sleep\, soreness\, heat\, and schedule changes.
+LOCATION:
+CATEGORIES:CHECK-IN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:142a92e9-24a7-4319-82b8-162b88a13ea9@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260817T173000
+DTEND;TZID=America/New_York:20260817T182000
+SUMMARY:Easy Run — 4 miles
+DESCRIPTION:Run type: Easy\nDistance: 4 miles\nEffort: RPE 3–4/10\n\nInst
+ ructions\nKeep this conversational. In Maryland heat\, slow down as much
+  as needed.\n\nOptional\nAdd 4 x 20 sec relaxed strides only if you feel
+  good.\n\nDo not\nTurn this into a tempo run.
+LOCATION:
+CATEGORIES:RUN
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1486ef35-2dd1-4b90-a2d7-283865ceea5e@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260818T183000
+DTEND;TZID=America/New_York:20260818T191500
+SUMMARY:Swim — Technique + Endurance
+DESCRIPTION:Outdoor pool\n\nWorkout type: Technique + endurance\nDuration
+ : 40–45 min\nYardage: 700–900 yd\nEffort: RPE 4–5/10\n\nWarm-up\n100 eas
+ y\n\nTechnique\n4 x 25 catch-up drill\n4 x 25 fingertip drag\n\nMain set
+ \n4 x 100 easy/moderate\, 30 sec rest\n4 x 50 smooth\n\nCool-down\n100 e
+ asy\n\nCoaching cue\nRotate from your hips. Keep your head quiet when br
+ eathing.\n\nMilestone\nMake 100-yard repeats feel calm and controlled.
+LOCATION:Outdoor pool
+CATEGORIES:SWIM
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fe3a73f5-4a2e-4ad0-bfad-8b3c12893b33@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260819T120000
+DTEND;TZID=America/New_York:20260819T124500
+SUMMARY:Strength A — Glutes/Core/Posture
+DESCRIPTION:Strength A: glutes\, hamstrings\, core\, posture\nDuration: 3
+ 5–45 min\nEffort: RPE 5–6/10\n\nSuggested session\nGoblet squat: 3 x 8–1
+ 0\nRomanian deadlift: 3 x 8–10\nStep-ups or split squats: 3 x 8/side\nDe
+ ad bug: 3 x 8/side\nSide plank: 2 x 30 sec/side\nBand pull-aparts or row
+ s: 3 x 12\n\nGoal\nSupport running form and injury resistance.
+LOCATION:
+CATEGORIES:STRENGTH
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fca4dc1f-22df-4367-a661-fd4a399dae48@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260820T173000
+DTEND;TZID=America/New_York:20260820T183000
+SUMMARY:Workout Run
+DESCRIPTION:Run type: Quality\nDistance: 4–5 miles\nEffort: RPE 6/10 duri
+ ng hard parts\n\nWarm-up\n1 mile easy\n\nMain set\n3 x 5 min comfortably
+  hard\n3 min easy jog between reps\n\nCool-down\nEasy jog to finish\n\nH
+ eat rule\nEffort beats pace.
+LOCATION:
+CATEGORIES:RUN
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8e72636d-9c31-418d-a585-d8fbb521a675@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260821T120000
+DTEND;TZID=America/New_York:20260821T124500
+SUMMARY:Optional Strength B or CrossFit
+DESCRIPTION:Strength B or CrossFit option\nDuration: 35–50 min\nEffort: R
+ PE 5–6/10\n\nFocus\nHips\, stability\, shoulders\, back\, core.\n\nCross
+ Fit note\nScale lower-body volume and avoid max-effort legs before Satur
+ day long run.
+LOCATION:
+CATEGORIES:STRENGTH
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f69dab6c-802b-40e5-b62f-77773c4c9944@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260822T080000
+DTEND;TZID=America/New_York:20260822T100000
+SUMMARY:Long Run — 7 miles cutback
+DESCRIPTION:Run type: Long run\nTime: Saturday morning\nDistance: 7 miles
+  cutback\nEffort: RPE 3–5/10\n\nFueling\nIf over 75 min\, practice race 
+ fueling.\nBring water/electrolytes.\nRecover with protein within an hour
+ .\n\nHeat rule\nSlow down early. Finish steady\, not wrecked.
+LOCATION:
+CATEGORIES:RUN
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bc412a37-5053-4312-ba5e-500fd136637f@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260823T100000
+DTEND;TZID=America/New_York:20260823T104500
+SUMMARY:Swim — Weekend Endurance
+DESCRIPTION:Outdoor pool\n\nWorkout type: Endurance build\nDuration: 40–4
+ 5 min\nYardage: 800–1000 yd\nEffort: RPE 4–5/10\n\n200 easy\n2 x 200 con
+ tinuous\, 45 sec rest\n4 x 50 smooth\nOptional 200 continuous\n\nMilesto
+ ne\nWork toward 400 yd nonstop.
+LOCATION:Outdoor pool
+CATEGORIES:SWIM
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:18db34ba-cc16-400d-aed1-e32b6c914e17@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260823T160000
+DTEND;TZID=America/New_York:20260823T171500
+SUMMARY:Brick — Bike + Run
+DESCRIPTION:Brick workout: bike + short run\nTime: Sunday PM\nEffort: RPE
+  4–5/10\n\nBike\n35–50 min easy/moderate\n\nTransition run\n10 min very 
+ easy\n\nGoal\nPractice bike-to-run legs without compromising half-marath
+ on training.
+LOCATION:
+CATEGORIES:BRICK
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:49628e46-9a6d-4f65-8d27-d9e048dcfb93@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260823T190000
+DTEND;TZID=America/New_York:20260823T191500
+SUMMARY:Weekly Check-In
+DESCRIPTION:Review the week. Move missed workouts instead of making them 
+ up. Note sleep\, soreness\, heat\, and schedule changes.
+LOCATION:
+CATEGORIES:CHECK-IN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:27f673a0-6bb8-4b05-be25-b6812d8b972b@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260824T173000
+DTEND;TZID=America/New_York:20260824T182000
+SUMMARY:Easy Run — 4 miles
+DESCRIPTION:Run type: Easy\nDistance: 4 miles\nEffort: RPE 3–4/10\n\nInst
+ ructions\nKeep this conversational. In Maryland heat\, slow down as much
+  as needed.\n\nOptional\nAdd 4 x 20 sec relaxed strides only if you feel
+  good.\n\nDo not\nTurn this into a tempo run.
+LOCATION:
+CATEGORIES:RUN
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb854c59-1615-47fc-bb13-b5460f77b624@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260825T183000
+DTEND;TZID=America/New_York:20260825T191500
+SUMMARY:Swim — Technique + Endurance
+DESCRIPTION:Outdoor pool\n\nWorkout type: Technique + endurance\nDuration
+ : 40–45 min\nYardage: 700–900 yd\nEffort: RPE 4–5/10\n\nWarm-up\n100 eas
+ y\n\nTechnique\n4 x 25 catch-up drill\n4 x 25 fingertip drag\n\nMain set
+ \n4 x 100 easy/moderate\, 30 sec rest\n4 x 50 smooth\n\nCool-down\n100 e
+ asy\n\nCoaching cue\nRotate from your hips. Keep your head quiet when br
+ eathing.\n\nMilestone\nMake 100-yard repeats feel calm and controlled.
+LOCATION:Outdoor pool
+CATEGORIES:SWIM
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1757fcb8-89ae-44da-bddb-72239d119a57@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260826T120000
+DTEND;TZID=America/New_York:20260826T124500
+SUMMARY:Strength A — Glutes/Core/Posture
+DESCRIPTION:Strength A: glutes\, hamstrings\, core\, posture\nDuration: 3
+ 5–45 min\nEffort: RPE 5–6/10\n\nSuggested session\nGoblet squat: 3 x 8–1
+ 0\nRomanian deadlift: 3 x 8–10\nStep-ups or split squats: 3 x 8/side\nDe
+ ad bug: 3 x 8/side\nSide plank: 2 x 30 sec/side\nBand pull-aparts or row
+ s: 3 x 12\n\nGoal\nSupport running form and injury resistance.
+LOCATION:
+CATEGORIES:STRENGTH
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3f61dc32-a83e-40b3-a322-a396557d6f74@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260827T173000
+DTEND;TZID=America/New_York:20260827T183000
+SUMMARY:Workout Run
+DESCRIPTION:Run type: Quality\nDistance: 4–5 miles\nEffort: RPE 6/10 duri
+ ng hard parts\n\nWarm-up\n1 mile easy\n\nMain set\n3 x 5 min comfortably
+  hard\n3 min easy jog between reps\n\nCool-down\nEasy jog to finish\n\nH
+ eat rule\nEffort beats pace.
+LOCATION:
+CATEGORIES:RUN
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2e3e95cb-5289-4d9a-8f5c-07334a8f23b0@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260828T120000
+DTEND;TZID=America/New_York:20260828T124500
+SUMMARY:Optional Strength B or CrossFit
+DESCRIPTION:Strength B or CrossFit option\nDuration: 35–50 min\nEffort: R
+ PE 5–6/10\n\nFocus\nHips\, stability\, shoulders\, back\, core.\n\nCross
+ Fit note\nScale lower-body volume and avoid max-effort legs before Satur
+ day long run.
+LOCATION:
+CATEGORIES:STRENGTH
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dfd76ac4-6566-4662-84d0-64340e8ac5bf@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260829T080000
+DTEND;TZID=America/New_York:20260829T100000
+SUMMARY:Long Run — 10 miles
+DESCRIPTION:Run type: Long run\nTime: Saturday morning\nDistance: 10 mile
+ s\nEffort: RPE 3–5/10\n\nFueling\nIf over 75 min\, practice race fueling
+ .\nBring water/electrolytes.\nRecover with protein within an hour.\n\nHe
+ at rule\nSlow down early. Finish steady\, not wrecked.
+LOCATION:
+CATEGORIES:RUN
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:614bf045-ab18-4137-8882-4f90661d6fdf@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260830T100000
+DTEND;TZID=America/New_York:20260830T104500
+SUMMARY:Swim — Weekend Endurance
+DESCRIPTION:Outdoor pool\n\nWorkout type: Endurance build\nDuration: 40–4
+ 5 min\nYardage: 800–1000 yd\nEffort: RPE 4–5/10\n\n200 easy\n2 x 200 con
+ tinuous\, 45 sec rest\n4 x 50 smooth\nOptional 200 continuous\n\nMilesto
+ ne\nWork toward 400 yd nonstop.
+LOCATION:Outdoor pool
+CATEGORIES:SWIM
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fb0c6cc5-f880-4c44-8445-a2fb128020c8@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260830T160000
+DTEND;TZID=America/New_York:20260830T171500
+SUMMARY:Brick — Bike + Run
+DESCRIPTION:Brick workout: bike + short run\nTime: Sunday PM\nEffort: RPE
+  4–5/10\n\nBike\n35–50 min easy/moderate\n\nTransition run\n10 min very 
+ easy\n\nGoal\nPractice bike-to-run legs without compromising half-marath
+ on training.
+LOCATION:
+CATEGORIES:BRICK
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ba75bf0e-1f2e-4d05-aa2a-c14272da38b8@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260830T190000
+DTEND;TZID=America/New_York:20260830T191500
+SUMMARY:Weekly Check-In
+DESCRIPTION:Review the week. Move missed workouts instead of making them 
+ up. Note sleep\, soreness\, heat\, and schedule changes.
+LOCATION:
+CATEGORIES:CHECK-IN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7e4571d6-e485-46c6-8c6d-36f6a3bdcf6b@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260831T173000
+DTEND;TZID=America/New_York:20260831T182000
+SUMMARY:Easy Run — 4 miles
+DESCRIPTION:Run type: Easy\nDistance: 4 miles\nEffort: RPE 3–4/10\n\nInst
+ ructions\nKeep this conversational. In Maryland heat\, slow down as much
+  as needed.\n\nOptional\nAdd 4 x 20 sec relaxed strides only if you feel
+  good.\n\nDo not\nTurn this into a tempo run.
+LOCATION:
+CATEGORIES:RUN
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1c160cda-8f79-4acd-ace8-0b182cbe5b8c@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260901T183000
+DTEND;TZID=America/New_York:20260901T191500
+SUMMARY:Swim — Technique + Endurance
+DESCRIPTION:Outdoor pool\n\nWorkout type: Race-comfort swim\nDuration: 45
+  min\nYardage: 900–1100 yd\nEffort: RPE 5/10\n\nWarm-up\n200 easy\n\nTec
+ hnique\n4 x 25 drill\n\nMain set\n6 x 100 steady\, 20–30 sec rest\n4 x 5
+ 0 with sighting every 3rd length\n\nCool-down\n100 easy\n\nCoaching cue\
+ nLift your eyes only enough to sight\, then turn immediately to breathe.
+LOCATION:Outdoor pool
+CATEGORIES:SWIM
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:574a258c-1cc8-47a7-ae89-98e23f958c9a@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260902T120000
+DTEND;TZID=America/New_York:20260902T124500
+SUMMARY:Strength A — Glutes/Core/Posture
+DESCRIPTION:Strength A: glutes\, hamstrings\, core\, posture\nDuration: 3
+ 5–45 min\nEffort: RPE 5–6/10\n\nSuggested session\nGoblet squat: 3 x 8–1
+ 0\nRomanian deadlift: 3 x 8–10\nStep-ups or split squats: 3 x 8/side\nDe
+ ad bug: 3 x 8/side\nSide plank: 2 x 30 sec/side\nBand pull-aparts or row
+ s: 3 x 12\n\nGoal\nSupport running form and injury resistance.
+LOCATION:
+CATEGORIES:STRENGTH
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5396ce35-a18e-46b4-9da3-d5d485e9feb9@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260903T173000
+DTEND;TZID=America/New_York:20260903T183000
+SUMMARY:Workout Run
+DESCRIPTION:Run type: Quality\nDistance: 4–5 miles\nEffort: RPE 6/10 duri
+ ng hard parts\n\nWarm-up\n1 mile easy\n\nMain set\n3 x 5 min comfortably
+  hard\n3 min easy jog between reps\n\nCool-down\nEasy jog to finish\n\nH
+ eat rule\nEffort beats pace.
+LOCATION:
+CATEGORIES:RUN
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7575cb6d-5ef0-4faa-b54e-02893e7cd74f@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260904T120000
+DTEND;TZID=America/New_York:20260904T124500
+SUMMARY:Optional Strength B or CrossFit
+DESCRIPTION:Strength B or CrossFit option\nDuration: 35–50 min\nEffort: R
+ PE 5–6/10\n\nFocus\nHips\, stability\, shoulders\, back\, core.\n\nCross
+ Fit note\nScale lower-body volume and avoid max-effort legs before Satur
+ day long run.
+LOCATION:
+CATEGORIES:STRENGTH
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:43fdeff7-9613-4d9a-b061-191b7b631120@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260905T080000
+DTEND;TZID=America/New_York:20260905T100000
+SUMMARY:Long Run — 8 miles
+DESCRIPTION:Run type: Long run\nTime: Saturday morning\nDistance: 8 miles
+ \nEffort: RPE 3–5/10\n\nFueling\nIf over 75 min\, practice race fueling.
+ \nBring water/electrolytes.\nRecover with protein within an hour.\n\nHea
+ t rule\nSlow down early. Finish steady\, not wrecked.
+LOCATION:
+CATEGORIES:RUN
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ef8fec13-3af8-4e01-819f-5f5b902b59d0@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260906T100000
+DTEND;TZID=America/New_York:20260906T104500
+SUMMARY:Swim — Weekend Endurance
+DESCRIPTION:Outdoor pool\n\nWorkout type: Race-distance confidence\nDurat
+ ion: 40–45 min\nYardage: 900–1100 yd\nEffort: RPE 5/10\n\n200 easy\n400 
+ continuous relaxed\nRest 60 sec\n4 x 100 steady\n100 cooldown\n\nGoal\nR
+ ace distance should feel achievable.
+LOCATION:Outdoor pool
+CATEGORIES:SWIM
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0cd1bd96-3577-4920-b8c0-7f4e3f3ae916@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260906T160000
+DTEND;TZID=America/New_York:20260906T171500
+SUMMARY:Brick — Bike + Run
+DESCRIPTION:Brick workout: bike + short run\nTime: Sunday PM\nEffort: RPE
+  4–5/10\n\nBike\n35–50 min easy/moderate\n\nTransition run\n10 min very 
+ easy\n\nGoal\nPractice bike-to-run legs without compromising half-marath
+ on training.
+LOCATION:
+CATEGORIES:BRICK
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:47640bc7-8d44-4891-ae43-1be7a30cd30f@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260906T190000
+DTEND;TZID=America/New_York:20260906T191500
+SUMMARY:Weekly Check-In
+DESCRIPTION:Review the week. Move missed workouts instead of making them 
+ up. Note sleep\, soreness\, heat\, and schedule changes.
+LOCATION:
+CATEGORIES:CHECK-IN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5f42837a-c314-4a01-b2c6-d5966cd2533d@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260907T173000
+DTEND;TZID=America/New_York:20260907T182000
+SUMMARY:Easy Run — 3 miles
+DESCRIPTION:Run type: Easy\nDistance: 3 miles\nEffort: RPE 3–4/10\n\nInst
+ ructions\nKeep this conversational. In Maryland heat\, slow down as much
+  as needed.\n\nOptional\nAdd 4 x 20 sec relaxed strides only if you feel
+  good.\n\nDo not\nTurn this into a tempo run.
+LOCATION:
+CATEGORIES:RUN
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8f9bd5e6-f0f1-4404-a5c5-6c5267218747@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260908T183000
+DTEND;TZID=America/New_York:20260908T191500
+SUMMARY:Swim — Technique + Endurance
+DESCRIPTION:Indoor pool\n\nWorkout type: Race-comfort swim\nDuration: 45 
+ min\nYardage: 900–1100 yd\nEffort: RPE 5/10\n\nWarm-up\n200 easy\n\nTech
+ nique\n4 x 25 drill\n\nMain set\n6 x 100 steady\, 20–30 sec rest\n4 x 50
+  with sighting every 3rd length\n\nCool-down\n100 easy\n\nCoaching cue\n
+ Lift your eyes only enough to sight\, then turn immediately to breathe.
+LOCATION:Indoor pool
+CATEGORIES:SWIM
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:16043fab-2522-488d-b420-2f2baad639d8@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260909T120000
+DTEND;TZID=America/New_York:20260909T124500
+SUMMARY:Strength A — Glutes/Core/Posture
+DESCRIPTION:Strength A: glutes\, hamstrings\, core\, posture\nDuration: 3
+ 5–45 min\nEffort: RPE 5–6/10\n\nSuggested session\nGoblet squat: 3 x 8–1
+ 0\nRomanian deadlift: 3 x 8–10\nStep-ups or split squats: 3 x 8/side\nDe
+ ad bug: 3 x 8/side\nSide plank: 2 x 30 sec/side\nBand pull-aparts or row
+ s: 3 x 12\n\nGoal\nSupport running form and injury resistance.
+LOCATION:
+CATEGORIES:STRENGTH
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:06e3e7e0-eeb6-42bb-a8f4-97547dcec851@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260910T173000
+DTEND;TZID=America/New_York:20260910T183000
+SUMMARY:Workout Run
+DESCRIPTION:Run type: Half-marathon tune-up\nDistance: 4 miles\nEffort: R
+ PE 5–6/10\n\n4 miles total\nMiddle 2 miles at steady half-marathon effor
+ t\n\nGoal\nSharpen\, not exhaust.
+LOCATION:
+CATEGORIES:RUN
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a1efe583-c323-45e5-8e0d-17a4fac4fbb9@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260911T120000
+DTEND;TZID=America/New_York:20260911T124500
+SUMMARY:Optional Strength B or CrossFit
+DESCRIPTION:Strength B or CrossFit option\nDuration: 35–50 min\nEffort: R
+ PE 5–6/10\n\nFocus\nHips\, stability\, shoulders\, back\, core.\n\nCross
+ Fit note\nScale lower-body volume and avoid max-effort legs before Satur
+ day long run.
+LOCATION:
+CATEGORIES:STRENGTH
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:410888c8-b5d8-4ba9-ac9f-b0b8b6dbb110@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260912T080000
+DTEND;TZID=America/New_York:20260912T100000
+SUMMARY:Long Run — 6 miles taper
+DESCRIPTION:Run type: Long run\nTime: Saturday morning\nDistance: 6 miles
+  taper\nEffort: RPE 3–5/10\n\nFueling\nIf over 75 min\, practice race fu
+ eling.\nBring water/electrolytes.\nRecover with protein within an hour.\
+ n\nHeat rule\nSlow down early. Finish steady\, not wrecked.
+LOCATION:
+CATEGORIES:RUN
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:997973e7-20c8-4144-8b86-05c356868140@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260913T100000
+DTEND;TZID=America/New_York:20260913T104500
+SUMMARY:Swim — Weekend Endurance
+DESCRIPTION:Indoor pool\n\nWorkout type: Race-distance confidence\nDurati
+ on: 40–45 min\nYardage: 900–1100 yd\nEffort: RPE 5/10\n\n200 easy\n400 c
+ ontinuous relaxed\nRest 60 sec\n4 x 100 steady\n100 cooldown\n\nGoal\nRa
+ ce distance should feel achievable.
+LOCATION:Indoor pool
+CATEGORIES:SWIM
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c378b5bd-280c-4bc6-a15c-dc7a82f37223@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260913T160000
+DTEND;TZID=America/New_York:20260913T171500
+SUMMARY:Brick — Bike + Run
+DESCRIPTION:Brick workout: bike + short run\nTime: Sunday PM\nEffort: RPE
+  4–5/10\n\nBike\n35–50 min easy/moderate\n\nTransition run\n10 min very 
+ easy\n\nGoal\nPractice bike-to-run legs without compromising half-marath
+ on training.
+LOCATION:
+CATEGORIES:BRICK
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:99a24da5-9f56-45da-8623-818a61e68ca6@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260913T190000
+DTEND;TZID=America/New_York:20260913T191500
+SUMMARY:Weekly Check-In
+DESCRIPTION:Review the week. Move missed workouts instead of making them 
+ up. Note sleep\, soreness\, heat\, and schedule changes.
+LOCATION:
+CATEGORIES:CHECK-IN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:15c300e8-495d-4e59-b046-3ddea64e56e2@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260914T173000
+DTEND;TZID=America/New_York:20260914T182000
+SUMMARY:Easy Run — 3 miles
+DESCRIPTION:Run type: Easy\nDistance: 3 miles\nEffort: RPE 3–4/10\n\nInst
+ ructions\nKeep this conversational. In Maryland heat\, slow down as much
+  as needed.\n\nOptional\nAdd 4 x 20 sec relaxed strides only if you feel
+  good.\n\nDo not\nTurn this into a tempo run.
+LOCATION:
+CATEGORIES:RUN
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0e6829c0-e0ce-4528-93b8-beaf395cb6d9@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260915T183000
+DTEND;TZID=America/New_York:20260915T191500
+SUMMARY:Swim — Technique + Endurance
+DESCRIPTION:Indoor pool\n\nWorkout type: Race-comfort swim\nDuration: 45 
+ min\nYardage: 900–1100 yd\nEffort: RPE 5/10\n\nWarm-up\n200 easy\n\nTech
+ nique\n4 x 25 drill\n\nMain set\n6 x 100 steady\, 20–30 sec rest\n4 x 50
+  with sighting every 3rd length\n\nCool-down\n100 easy\n\nCoaching cue\n
+ Lift your eyes only enough to sight\, then turn immediately to breathe.
+LOCATION:Indoor pool
+CATEGORIES:SWIM
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bc902156-4ac9-4add-b829-13124645fd73@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260916T120000
+DTEND;TZID=America/New_York:20260916T124500
+SUMMARY:Strength A — Glutes/Core/Posture
+DESCRIPTION:Strength A: glutes\, hamstrings\, core\, posture\nDuration: 3
+ 5–45 min\nEffort: RPE 5–6/10\n\nSuggested session\nGoblet squat: 3 x 8–1
+ 0\nRomanian deadlift: 3 x 8–10\nStep-ups or split squats: 3 x 8/side\nDe
+ ad bug: 3 x 8/side\nSide plank: 2 x 30 sec/side\nBand pull-aparts or row
+ s: 3 x 12\n\nGoal\nSupport running form and injury resistance.
+LOCATION:
+CATEGORIES:STRENGTH
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6a71731c-d09a-4c61-b308-553789b9f4e3@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260917T173000
+DTEND;TZID=America/New_York:20260917T183000
+SUMMARY:Workout Run
+DESCRIPTION:Run type: Half-marathon tune-up\nDistance: 4 miles\nEffort: R
+ PE 5–6/10\n\n4 miles total\nMiddle 2 miles at steady half-marathon effor
+ t\n\nGoal\nSharpen\, not exhaust.
+LOCATION:
+CATEGORIES:RUN
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b29291ae-787c-419e-891c-c26d8baa37ff@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260918T120000
+DTEND;TZID=America/New_York:20260918T124500
+SUMMARY:Optional Strength B or CrossFit
+DESCRIPTION:Strength B or CrossFit option\nDuration: 35–50 min\nEffort: R
+ PE 5–6/10\n\nFocus\nHips\, stability\, shoulders\, back\, core.\n\nCross
+ Fit note\nScale lower-body volume and avoid max-effort legs before Satur
+ day long run.
+LOCATION:
+CATEGORIES:STRENGTH
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:caecc3af-b828-41eb-b22e-09f87aa31ca6@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260920T100000
+DTEND;TZID=America/New_York:20260920T104500
+SUMMARY:Swim — Weekend Endurance
+DESCRIPTION:Indoor pool\n\nWorkout type: Final endurance / triathlon comf
+ ort\nDuration: 35–45 min\nYardage: 800–1000 yd\nEffort: RPE 3–4/10\n\n20
+ 0 easy\n600–800 continuous relaxed\nPractice sighting every 4–6 lengths\
+ nEasy cooldown\n\nGoal\nKnow you can cover the swim calmly.
+LOCATION:Indoor pool
+CATEGORIES:SWIM
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:96eada46-78e2-493c-ada6-d6f0ccd1c39b@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260920T160000
+DTEND;TZID=America/New_York:20260920T171500
+SUMMARY:Brick — Bike + Run
+DESCRIPTION:Triathlon-specific brick\nTime: Sunday PM\nEffort: RPE 4–5/10
+ \n\nBike\n45–60 min steady\n\nTransition run\n15–20 min easy\n\nPractice
+ \nQuick transition and relaxed first 5 minutes of the run.
+LOCATION:
+CATEGORIES:BRICK
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6794f079-47df-4dcf-a774-8be33278c828@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260920T190000
+DTEND;TZID=America/New_York:20260920T191500
+SUMMARY:Weekly Check-In
+DESCRIPTION:Review the week. Move missed workouts instead of making them 
+ up. Note sleep\, soreness\, heat\, and schedule changes.
+LOCATION:
+CATEGORIES:CHECK-IN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:793f02f9-6f29-4c2d-8a5b-5df1527ded01@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260921T173000
+DTEND;TZID=America/New_York:20260921T182000
+SUMMARY:Easy Run — 3 miles
+DESCRIPTION:Run type: Easy\nDistance: 3 miles\nEffort: RPE 3–4/10\n\nInst
+ ructions\nKeep this conversational. In Maryland heat\, slow down as much
+  as needed.\n\nOptional\nAdd 4 x 20 sec relaxed strides only if you feel
+  good.\n\nDo not\nTurn this into a tempo run.
+LOCATION:
+CATEGORIES:RUN
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:56034d07-53f0-47fc-a481-a978e79001cc@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260922T183000
+DTEND;TZID=America/New_York:20260922T191500
+SUMMARY:Swim — Technique + Endurance
+DESCRIPTION:Indoor pool\n\nWorkout type: Recovery swim after half maratho
+ n\nDuration: 30–40 min\nYardage: 700–900 yd\nEffort: RPE 2–3/10\n\n200 e
+ asy\n4 x 25 drill\n4 x 100 relaxed\n4 x 50 sighting practice\n100 cooldo
+ wn\n\nRule\nThis is recovery. No hard efforts.
+LOCATION:Indoor pool
+CATEGORIES:SWIM
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1de2825d-fd44-48a8-844d-6c1566c13052@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260923T120000
+DTEND;TZID=America/New_York:20260923T124500
+SUMMARY:Strength A — Glutes/Core/Posture
+DESCRIPTION:Strength A: glutes\, hamstrings\, core\, posture\nDuration: 3
+ 5–45 min\nEffort: RPE 5–6/10\n\nSuggested session\nGoblet squat: 3 x 8–1
+ 0\nRomanian deadlift: 3 x 8–10\nStep-ups or split squats: 3 x 8/side\nDe
+ ad bug: 3 x 8/side\nSide plank: 2 x 30 sec/side\nBand pull-aparts or row
+ s: 3 x 12\n\nGoal\nSupport running form and injury resistance.
+LOCATION:
+CATEGORIES:STRENGTH
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0b6e561d-3ae0-4bc4-9af3-02c44d512e14@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260924T173000
+DTEND;TZID=America/New_York:20260924T183000
+SUMMARY:Easy Run
+DESCRIPTION:Run type: Post-half easy\nDistance: 3 miles\nEffort: RPE 2–3/
+ 10\n\nKeep it relaxed while shifting toward triathlon freshness.
+LOCATION:
+CATEGORIES:RUN
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8a247edc-0519-44a8-a1bd-8effe1b115f0@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260927T100000
+DTEND;TZID=America/New_York:20260927T104500
+SUMMARY:Swim — Weekend Endurance
+DESCRIPTION:Indoor pool\n\nWorkout type: Final endurance / triathlon comf
+ ort\nDuration: 35–45 min\nYardage: 800–1000 yd\nEffort: RPE 3–4/10\n\n20
+ 0 easy\n600–800 continuous relaxed\nPractice sighting every 4–6 lengths\
+ nEasy cooldown\n\nGoal\nKnow you can cover the swim calmly.
+LOCATION:Indoor pool
+CATEGORIES:SWIM
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:81699ea6-ff5d-40bc-bc85-1d47e87e144a@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260927T160000
+DTEND;TZID=America/New_York:20260927T171500
+SUMMARY:Brick — Bike + Run
+DESCRIPTION:Triathlon-specific brick\nTime: Sunday PM\nEffort: RPE 4–5/10
+ \n\nBike\n45–60 min steady\n\nTransition run\n15–20 min easy\n\nPractice
+ \nQuick transition and relaxed first 5 minutes of the run.
+LOCATION:
+CATEGORIES:BRICK
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:aaa5949f-b811-417d-b69b-5e602f299a0a@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260927T190000
+DTEND;TZID=America/New_York:20260927T191500
+SUMMARY:Weekly Check-In
+DESCRIPTION:Review the week. Move missed workouts instead of making them 
+ up. Note sleep\, soreness\, heat\, and schedule changes.
+LOCATION:
+CATEGORIES:CHECK-IN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2fac5114-ff37-4e03-a8d2-362745e3a461@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260928T173000
+DTEND;TZID=America/New_York:20260928T182000
+SUMMARY:Easy Run — 3 miles
+DESCRIPTION:Run type: Easy\nDistance: 3 miles\nEffort: RPE 3–4/10\n\nInst
+ ructions\nKeep this conversational. In Maryland heat\, slow down as much
+  as needed.\n\nOptional\nAdd 4 x 20 sec relaxed strides only if you feel
+  good.\n\nDo not\nTurn this into a tempo run.
+LOCATION:
+CATEGORIES:RUN
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3ee1febe-fef9-4763-95ef-c1dc3d21a395@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260929T183000
+DTEND;TZID=America/New_York:20260929T191500
+SUMMARY:Swim — Technique + Endurance
+DESCRIPTION:Indoor pool\n\nWorkout type: Race-week easy swim\nDuration: 2
+ 5–35 min\nYardage: 500–700 yd\nEffort: RPE 2–3/10\n\n200 easy\n4 x 25 dr
+ ill\n4 x 50 smooth\n100–200 continuous very easy\n50 cooldown\n\nGoal\nL
+ eave the pool fresh and confident.
+LOCATION:Indoor pool
+CATEGORIES:SWIM
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f0a716e5-0464-4bc8-bdbd-3583a637c804@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260711T063000
+DTEND;TZID=America/New_York:20260711T064500
+SUMMARY:Long Run Fuel + Heat Reminder
+DESCRIPTION:Eat breakfast 2–3 hours before. If running >75 min\, practice
+  race fueling. Bring fluids and electrolytes. Sunscreen. Recover with pr
+ otein.
+LOCATION:
+CATEGORIES:NUTRITION
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8f5a07c7-5952-42c6-81c9-70e191ab74c8@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260718T063000
+DTEND;TZID=America/New_York:20260718T064500
+SUMMARY:Long Run Fuel + Heat Reminder
+DESCRIPTION:Eat breakfast 2–3 hours before. If running >75 min\, practice
+  race fueling. Bring fluids and electrolytes. Sunscreen. Recover with pr
+ otein.
+LOCATION:
+CATEGORIES:NUTRITION
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ff1d6bc4-3a74-4971-8bc1-eb9b6e6d81a0@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260725T063000
+DTEND;TZID=America/New_York:20260725T064500
+SUMMARY:Long Run Fuel + Heat Reminder
+DESCRIPTION:Eat breakfast 2–3 hours before. If running >75 min\, practice
+  race fueling. Bring fluids and electrolytes. Sunscreen. Recover with pr
+ otein.
+LOCATION:
+CATEGORIES:NUTRITION
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a7e8b54e-db8e-4324-8ddc-89212c502251@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260808T063000
+DTEND;TZID=America/New_York:20260808T064500
+SUMMARY:Long Run Fuel + Heat Reminder
+DESCRIPTION:Eat breakfast 2–3 hours before. If running >75 min\, practice
+  race fueling. Bring fluids and electrolytes. Sunscreen. Recover with pr
+ otein.
+LOCATION:
+CATEGORIES:NUTRITION
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9f3ba90b-bebc-4eed-bfaf-808142c147cc@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260815T063000
+DTEND;TZID=America/New_York:20260815T064500
+SUMMARY:Long Run Fuel + Heat Reminder
+DESCRIPTION:Eat breakfast 2–3 hours before. If running >75 min\, practice
+  race fueling. Bring fluids and electrolytes. Sunscreen. Recover with pr
+ otein.
+LOCATION:
+CATEGORIES:NUTRITION
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:428c42a7-8f1e-4eeb-9eff-15f1fc325c44@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260822T063000
+DTEND;TZID=America/New_York:20260822T064500
+SUMMARY:Long Run Fuel + Heat Reminder
+DESCRIPTION:Eat breakfast 2–3 hours before. If running >75 min\, practice
+  race fueling. Bring fluids and electrolytes. Sunscreen. Recover with pr
+ otein.
+LOCATION:
+CATEGORIES:NUTRITION
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f0ba1c73-021d-43eb-a1f1-8a47923a729e@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260829T063000
+DTEND;TZID=America/New_York:20260829T064500
+SUMMARY:Long Run Fuel + Heat Reminder
+DESCRIPTION:Eat breakfast 2–3 hours before. If running >75 min\, practice
+  race fueling. Bring fluids and electrolytes. Sunscreen. Recover with pr
+ otein.
+LOCATION:
+CATEGORIES:NUTRITION
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:be38d61f-2618-419f-aa99-b9866fc049e9@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260905T063000
+DTEND;TZID=America/New_York:20260905T064500
+SUMMARY:Long Run Fuel + Heat Reminder
+DESCRIPTION:Eat breakfast 2–3 hours before. If running >75 min\, practice
+  race fueling. Bring fluids and electrolytes. Sunscreen. Recover with pr
+ otein.
+LOCATION:
+CATEGORIES:NUTRITION
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:65ec9ca3-a67f-4c2b-bd11-191423e1d3b7@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260912T063000
+DTEND;TZID=America/New_York:20260912T064500
+SUMMARY:Long Run Fuel + Heat Reminder
+DESCRIPTION:Eat breakfast 2–3 hours before. If running >75 min\, practice
+  race fueling. Bring fluids and electrolytes. Sunscreen. Recover with pr
+ otein.
+LOCATION:
+CATEGORIES:NUTRITION
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3fbb5926-6390-4fe0-9208-9d63c5713586@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260906T150000
+DTEND;TZID=America/New_York:20260906T154500
+SUMMARY:Optional Open-Water Swim Practice
+DESCRIPTION:Only if safe and supervised. Practice calm start\, sighting\,
+  continuous swimming without wall push-offs\, and exiting relaxed.
+LOCATION:
+CATEGORIES:SWIM
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:315dfc31-104f-436e-82af-90289b64db0a@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260913T150000
+DTEND;TZID=America/New_York:20260913T154500
+SUMMARY:Optional Open-Water Swim Practice
+DESCRIPTION:Only if safe and supervised. Practice calm start\, sighting\,
+  continuous swimming without wall push-offs\, and exiting relaxed.
+LOCATION:
+CATEGORIES:SWIM
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:789ff655-c65c-4d78-b531-cfe422ab42d8@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260920T150000
+DTEND;TZID=America/New_York:20260920T154500
+SUMMARY:Optional Open-Water Swim Practice
+DESCRIPTION:Only if safe and supervised. Practice calm start\, sighting\,
+  continuous swimming without wall push-offs\, and exiting relaxed.
+LOCATION:
+CATEGORIES:SWIM
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:314dae02-6aa4-4f08-90db-690df8905f28@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260907T090000
+DTEND;TZID=America/New_York:20260907T091500
+SUMMARY:Switch to Indoor Pool
+DESCRIPTION:Confirm indoor pool hours\, lane schedule\, membership\, and 
+ reservation rules.
+LOCATION:
+CATEGORIES:LOGISTICS
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5e134175-19a6-4eb2-8ed0-1e3de362c54e@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260914T080000
+DTEND;TZID=America/New_York:20260914T081500
+SUMMARY:Half Marathon Taper Guardrail
+DESCRIPTION:Reduce volume. Do not make up missed workouts. Prioritize sle
+ ep\, hydration\, and easy movement.
+LOCATION:
+CATEGORIES:TAPER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f4899f3f-b656-4998-a283-3a86e41de318@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20260928T080000
+DTEND;TZID=America/New_York:20260928T081500
+SUMMARY:Triathlon Taper Guardrail
+DESCRIPTION:Stay fresh. Short\, easy workouts only. No last-minute fitnes
+ s.
+LOCATION:
+CATEGORIES:TAPER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0c2dcdab-10f3-4d52-beff-83bdad22b3c9@liz-training-calendar-v2
+DTSTAMP:20260705T183000Z
+DTSTART;TZID=America/New_York:20261004T080000
+DTEND;TZID=America/New_York:20261004T081500
+SUMMARY:Post-Triathlon Recovery Week
+DESCRIPTION:No structured training required. Walk\, easy spin\, gentle sw
+ im\, and reflect on next goals.
+LOCATION:
+CATEGORIES:RECOVERY
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
